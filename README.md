@@ -1,2 +1,2 @@
 # Dialex
-Sign
+A Bidirectional Sign Language Translation
