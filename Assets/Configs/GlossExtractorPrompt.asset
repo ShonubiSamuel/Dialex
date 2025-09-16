@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f9f166a75d94591bfd002088ec95edc, type: 3}
+  m_Name: GlossExtractorPrompt
+  m_EditorClassIdentifier: Assembly-CSharp::YourApp.Signs.Pipeline.Gloss.GlossExtractorPrompt
+  model: openai/gpt-4.1
+  temperature: 1
+  maxTokens: 512
+  systemPrompt: 'You convert English sentences into a sequence of sign ''gloss''
+    keys. Return ONLY a JSON array of strings. Each item: lower-case, words separated
+    with underscores, numbers preserved (e.g., "7.2"), and no punctuation or commentary.'
+  userTemplate: 'Sentence:
+
+    "{text}"
+
+
+    Rules:
+
+    - Output ONLY a JSON array
+    of strings like ["ask_out","anyone","7.2"].
+
+    - Use concise dictionary-like
+    glosses (no morphological tags).
+
+    - No alternatives, no explanations.
+
+'

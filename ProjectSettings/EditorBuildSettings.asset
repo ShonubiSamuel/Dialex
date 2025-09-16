@@ -6,8 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/My Stuffs/Scene/Groq.unity
-    guid: 68ff889ec2f4b4f5286b5e8e77459543
+    path: Assets/New Stuffs/Text To Sign.unity
+    guid: 93b478dbf253d4d83825cf13200b8481
+  - enabled: 1
+    path: Assets/MediaPipeUnity/Samples/Scenes/Legacy/Holistic/Sign To Text.unity
+    guid: 530502d398830609297010a1521c815f
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 6acf6b529e9ba4c83bb012535a103c5f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

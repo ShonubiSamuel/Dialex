@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4e775655b447b6bc437a28e447a902, type: 3}
+  m_Name: PacingProfile
+  m_EditorClassIdentifier: Assembly-CSharp::YourApp.Signs.Pipeline.Scheduling.PacingProfile
+  interSignCrossfade: 0.16
+  endCrop: 0.02
+  nextStartOffset: 0.02
+  minGap: 0
+  defaultBlendIn: 0.18
+  defaultBlendOut: 0.12
+  playbackSpeed: 1
+  playIdleWhenEmpty: 1
+  idleShuffle: 1
+  idleBlendIn: 0.18

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c93e032d667d4e6cb5ceacc4f54b9a3d, type: 3}
+  m_Name: LanguageCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::YourApp.Signs.Pipeline.Config.LanguageCatalog
+  languages:
+  - iso: en
+    displayName: English
+    sttSupported: 1
+    needsTranslationToEnglish: 0
+    fallbacks: []
+    isRTL: 0
+  - iso: yo
+    displayName: "Yor\xF9b\xE1"
+    sttSupported: 1
+    needsTranslationToEnglish: 1
+    fallbacks:
+    - en
+    isRTL: 0
+  - iso: ha
+    displayName: Hausa
+    sttSupported: 1
+    needsTranslationToEnglish: 1
+    fallbacks:
+    - en
+    isRTL: 0
+  - iso: ig
+    displayName: Igbo
+    sttSupported: 1
+    needsTranslationToEnglish: 1
+    fallbacks:
+    - en
+    isRTL: 0
+  defaultIso: en

@@ -7,8 +7,8 @@ public class SignTestRunner : MonoBehaviour
 
     void Start()
     {
-        SignMappingLoader loader = FindFirstObjectByType<SignMappingLoader>();
-        loader.Load();
+        //SignMappingLoader loader = new SignMappingLoader();
+        SignMappingLoader.Load();
 
         List<string> gloss = new List<string> { "thank you", "my", "name", "samuel" };
 
@@ -18,7 +18,7 @@ public class SignTestRunner : MonoBehaviour
         Debug.Log("Animation Sequence:");
         foreach (string anim in animationSequence)
         {
-            Debug.Log(anim);
+           // Debug.Log(anim);
         }
         
         player.Init();

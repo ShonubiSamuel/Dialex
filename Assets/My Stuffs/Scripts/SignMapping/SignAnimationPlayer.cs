@@ -1,30 +1,30 @@
-using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class SignAnimationPlayer : MonoBehaviour
 {
-    public SignAnimationLibrary animationLibrary;
     public Animator animator;
 
     private AnimatorOverrideController overrideController;
-    private AnimationClipOverrides clipOverrides;
+    private ClipsOverrides clipsOverrides;
 
     private const int MaxSlots = 20;
+    
+    List<AnimationClip> animationClips;
+
+    public AnimationClip idle;
 
     public void Init()
     {
-        animationLibrary.Init();
-
-        // Setup Animator Override Controller
-        overrideController = new AnimatorOverrideController(animator.runtimeAnimatorController);
-        animator.runtimeAnimatorController = overrideController;
-
-        print("overrideController.overridesCount  " + overrideController.overridesCount);
-        clipOverrides = new AnimationClipOverrides(overrideController.overridesCount);
-        overrideController.GetOverrides(clipOverrides);
+        LoadAnimations();
     }
 
+    void LoadAnimations() {
+        animationClips = Resources.LoadAll<AnimationClip>("Animations").ToList();
+    }
+    
+    
     public void PlaySequence(List<string> sequence)
     {
         if (sequence.Count > MaxSlots)
@@ -33,47 +33,36 @@ public class SignAnimationPlayer : MonoBehaviour
             sequence = sequence.GetRange(0, MaxSlots);
         }
 
+        SetUpOverrideController(sequence.Count + 1); //one for the idle For now 
+        
         // Override animation clips for the defined slots
         for (int i = 0; i < MaxSlots; i++)
         {
             if (i < sequence.Count)
             {
                 string cleanName = sequence[i].ToLower();
-                AnimationClip clip = animationLibrary.GetClip(cleanName);
+                AnimationClip animationClip = animationClips.Find(clip => clip.name == cleanName);
                 
                 // The name of the animation clip in the edior should match the clipOverrides index name
                 //"cleanName"
-                print(clip.name);
-                clipOverrides[$"{i}"] = clip;
+                print(animationClip.name);
+                clipsOverrides[$"{i}"] = animationClip;
             }
         }
-        overrideController.ApplyOverrides(clipOverrides);
-
+        clipsOverrides[$"{sequence.Count}"] = idle;
+        overrideController.ApplyOverrides(clipsOverrides);
         
-        // Start coroutine to play one by one
-        StartCoroutine(PlayRoutine(sequence));
-
     }
     
-    private IEnumerator PlayRoutine(List<string> sequence)
+    private void SetUpOverrideController(int totalSlots)
     {
-        animator.SetTrigger("start");
         
-        yield return StartCoroutine(WaitForAnimationToEnd((sequence.Count - 1).ToString()));
+        // Setup Animator Override Controller
+        overrideController = new AnimatorOverrideController(animator.runtimeAnimatorController);
+        animator.runtimeAnimatorController = overrideController;
         
-        animator.Play("idle");
+        clipsOverrides = new ClipsOverrides(totalSlots);
+        overrideController.GetOverrides(clipsOverrides);
     }
     
-    private IEnumerator WaitForAnimationToEnd(string stateName)
-    {
-        while (!animator.GetCurrentAnimatorStateInfo(0).IsName(stateName))
-            yield return null;
-        
-        // Then wait until state is done (normalized time >= 1)
-        while (animator.GetCurrentAnimatorStateInfo(0).IsName(stateName) &&
-               animator.GetCurrentAnimatorStateInfo(0).normalizedTime < 1f)
-        {
-            yield return null;
-        }
-    }
 }

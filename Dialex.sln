@@ -1,31 +1,55 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingularityGroup.HotReload.Editor", "SingularityGroup.HotReload.Editor.csproj", "{d138b06f-102e-b263-ff6a-67f53f4e4fe6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{40cbdae2-ce1d-3557-1af5-a77edfe586a6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uMicrophoneWebGL.Samples.WaveForm", "uMicrophoneWebGL.Samples.WaveForm.csproj", "{7d4c95dc-f2ff-5bfe-e063-c423c9ffc706}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediapipe.Runtime", "Mediapipe.Runtime.csproj", "{854c31f9-3f38-48fc-a67d-8257048b1b3e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeFilePicker.Runtime", "NativeFilePicker.Runtime.csproj", "{d39ce27a-9515-a537-49ec-ef666fb95c39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{5a97510f-cb06-c8d8-5e3c-8d56a0ceb7b7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uMicrophoneWebGL", "uMicrophoneWebGL.csproj", "{072e08a8-62d2-a4d8-ddab-11f90a232e8a}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediapipe.Unity.Sample", "Mediapipe.Unity.Sample.csproj", "{89745fdf-5f5f-7d50-bc69-c9ff648eaf0d}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uMicrophoneWebGL.Samples.Recorder", "uMicrophoneWebGL.Samples.Recorder.csproj", "{14acf710-50f3-c082-e364-55b6f13ae1b8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediapipe.Tests.EditMode", "Mediapipe.Tests.EditMode.csproj", "{13e5eedf-e386-949a-8eab-d13aaf352b31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingularityGroup.HotReload.Runtime.Public", "SingularityGroup.HotReload.Runtime.Public.csproj", "{55e0786b-2ecf-5462-4f4a-b3287c539b29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingularityGroup.HotReload.Runtime", "SingularityGroup.HotReload.Runtime.csproj", "{35815556-c1f9-8aa2-308e-37ca71f2d730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeFilePicker.Editor", "NativeFilePicker.Editor.csproj", "{0d9c67d9-ff6a-b648-7948-d8f182afff61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPipe.Unity.Sample.Tests.EditMode", "MediaPipe.Unity.Sample.Tests.EditMode.csproj", "{43d6290b-9fee-ab6f-53c9-241092b0b5ac}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d138b06f-102e-b263-ff6a-67f53f4e4fe6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d138b06f-102e-b263-ff6a-67f53f4e4fe6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40cbdae2-ce1d-3557-1af5-a77edfe586a6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{40cbdae2-ce1d-3557-1af5-a77edfe586a6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7d4c95dc-f2ff-5bfe-e063-c423c9ffc706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7d4c95dc-f2ff-5bfe-e063-c423c9ffc706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854c31f9-3f38-48fc-a67d-8257048b1b3e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854c31f9-3f38-48fc-a67d-8257048b1b3e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d39ce27a-9515-a537-49ec-ef666fb95c39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d39ce27a-9515-a537-49ec-ef666fb95c39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5a97510f-cb06-c8d8-5e3c-8d56a0ceb7b7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5a97510f-cb06-c8d8-5e3c-8d56a0ceb7b7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{072e08a8-62d2-a4d8-ddab-11f90a232e8a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{072e08a8-62d2-a4d8-ddab-11f90a232e8a}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14acf710-50f3-c082-e364-55b6f13ae1b8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14acf710-50f3-c082-e364-55b6f13ae1b8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89745fdf-5f5f-7d50-bc69-c9ff648eaf0d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89745fdf-5f5f-7d50-bc69-c9ff648eaf0d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13e5eedf-e386-949a-8eab-d13aaf352b31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13e5eedf-e386-949a-8eab-d13aaf352b31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55e0786b-2ecf-5462-4f4a-b3287c539b29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55e0786b-2ecf-5462-4f4a-b3287c539b29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35815556-c1f9-8aa2-308e-37ca71f2d730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35815556-c1f9-8aa2-308e-37ca71f2d730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0d9c67d9-ff6a-b648-7948-d8f182afff61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0d9c67d9-ff6a-b648-7948-d8f182afff61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43d6290b-9fee-ab6f-53c9-241092b0b5ac}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43d6290b-9fee-ab6f-53c9-241092b0b5ac}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

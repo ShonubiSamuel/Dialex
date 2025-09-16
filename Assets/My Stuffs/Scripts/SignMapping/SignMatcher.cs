@@ -18,28 +18,6 @@ public class SignMatcher
         {
             string current = gloss[i].ToLower();
 
-            //bool matchedPhrase = false;
-
-            // Check if any multi-word entry in the map starts with the current word
-            // foreach (var entry in signMap)
-            // {
-            //     //string[] entryWords = entry.Key.ToLower().Split(' ');
-            //
-            //     // if (entryWords.Length == 2 && entryWords[0] == current)
-            //     // {
-            //     //     // Check if next word in gloss matches second word in mapping
-            //     //     if (i + 1 < gloss.Count && gloss[i + 1].ToLower() == entryWords[1])
-            //     //     {
-            //     //         result.Add(entry.Value);
-            //     //         i += 2;
-            //     //         matchedPhrase = true;
-            //     //         break;
-            //     //     }
-            //     // }
-            // }
-
-            //if (matchedPhrase) continue;
-
             // Try single word
             if (signMap.TryGetValue(current, out string wordAnim))
             {

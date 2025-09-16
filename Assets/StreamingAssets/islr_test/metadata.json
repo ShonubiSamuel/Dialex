@@ -1,0 +1,14 @@
+{
+  "dataset_row": {
+    "participant_id": 29302,
+    "sequence_id": 3092553794,
+    "sign": "food",
+    "path": "train_landmark_files/29302/3092553794.parquet"
+  },
+  "shape": {
+    "B": 1,
+    "T": 384,
+    "N": 543,
+    "C": 3
+  }
+}

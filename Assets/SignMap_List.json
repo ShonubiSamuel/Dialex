@@ -1,0 +1,6124 @@
+﻿{
+    "entries": [
+        {
+            "key": "0",
+            "path": "Assets/Signs/0.anim"
+        },
+        {
+            "key": "1",
+            "path": "Assets/Signs/1.anim"
+        },
+        {
+            "key": "2",
+            "path": "Assets/Signs/2.anim"
+        },
+        {
+            "key": "3",
+            "path": "Assets/Signs/3.anim"
+        },
+        {
+            "key": "4",
+            "path": "Assets/Signs/4.anim"
+        },
+        {
+            "key": "5",
+            "path": "Assets/Signs/5.anim"
+        },
+        {
+            "key": "6",
+            "path": "Assets/Signs/6.anim"
+        },
+        {
+            "key": "7",
+            "path": "Assets/Signs/7.anim"
+        },
+        {
+            "key": "8",
+            "path": "Assets/Signs/8.anim"
+        },
+        {
+            "key": "9",
+            "path": "Assets/Signs/9.anim"
+        },
+        {
+            "key": "10",
+            "path": "Assets/Signs/10.anim"
+        },
+        {
+            "key": "a",
+            "path": "Assets/Signs/a.anim"
+        },
+        {
+            "key": "adhd",
+            "path": "Assets/Signs/adhd.anim"
+        },
+        {
+            "key": "alaska",
+            "path": "Assets/Signs/alaska.anim"
+        },
+        {
+            "key": "albania",
+            "path": "Assets/Signs/albania.anim"
+        },
+        {
+            "key": "albeit",
+            "path": "Assets/Signs/albeit.anim"
+        },
+        {
+            "key": "alberta",
+            "path": "Assets/Signs/alberta.anim"
+        },
+        {
+            "key": "alcohol",
+            "path": "Assets/Signs/alcohol.anim"
+        },
+        {
+            "key": "alcoholic",
+            "path": "Assets/Signs/alcoholic.anim"
+        },
+        {
+            "key": "alcoholic_anonymous",
+            "path": "Assets/Signs/alcoholic_anonymous.anim"
+        },
+        {
+            "key": "alert",
+            "path": "Assets/Signs/alert.anim"
+        },
+        {
+            "key": "alert_device",
+            "path": "Assets/Signs/alert_device.anim"
+        },
+        {
+            "key": "algebra",
+            "path": "Assets/Signs/algebra.anim"
+        },
+        {
+            "key": "algeria",
+            "path": "Assets/Signs/algeria.anim"
+        },
+        {
+            "key": "algorithm",
+            "path": "Assets/Signs/algorithm.anim"
+        },
+        {
+            "key": "alien",
+            "path": "Assets/Signs/alien.anim"
+        },
+        {
+            "key": "all_day",
+            "path": "Assets/Signs/all_day.anim"
+        },
+        {
+            "key": "ancient",
+            "path": "Assets/Signs/ancient.anim"
+        },
+        {
+            "key": "and",
+            "path": "Assets/Signs/and.anim"
+        },
+        {
+            "key": "andorra",
+            "path": "Assets/Signs/andorra.anim"
+        },
+        {
+            "key": "android",
+            "path": "Assets/Signs/android.anim"
+        },
+        {
+            "key": "anesthesia",
+            "path": "Assets/Signs/anesthesia.anim"
+        },
+        {
+            "key": "angel",
+            "path": "Assets/Signs/angel.anim"
+        },
+        {
+            "key": "anger",
+            "path": "Assets/Signs/anger.anim"
+        },
+        {
+            "key": "anger_variant",
+            "path": "Assets/Signs/anger_variant.anim"
+        },
+        {
+            "key": "angle",
+            "path": "Assets/Signs/angle.anim"
+        },
+        {
+            "key": "animal",
+            "path": "Assets/Signs/animal.anim"
+        },
+        {
+            "key": "animosity",
+            "path": "Assets/Signs/animosity.anim"
+        },
+        {
+            "key": "annex",
+            "path": "Assets/Signs/annex.anim"
+        },
+        {
+            "key": "annex_building",
+            "path": "Assets/Signs/annex_building.anim"
+        },
+        {
+            "key": "annihilate",
+            "path": "Assets/Signs/annihilate.anim"
+        },
+        {
+            "key": "anniversary",
+            "path": "Assets/Signs/anniversary.anim"
+        },
+        {
+            "key": "anniversary_date",
+            "path": "Assets/Signs/anniversary_date.anim"
+        },
+        {
+            "key": "annoint",
+            "path": "Assets/Signs/annoint.anim"
+        },
+        {
+            "key": "annoint_baby",
+            "path": "Assets/Signs/annoint_baby.anim"
+        },
+        {
+            "key": "announce",
+            "path": "Assets/Signs/announce.anim"
+        },
+        {
+            "key": "announcer",
+            "path": "Assets/Signs/announcer.anim"
+        },
+        {
+            "key": "annoy",
+            "path": "Assets/Signs/annoy.anim"
+        },
+        {
+            "key": "annoyed",
+            "path": "Assets/Signs/annoyed.anim"
+        },
+        {
+            "key": "annual",
+            "path": "Assets/Signs/annual.anim"
+        },
+        {
+            "key": "annul",
+            "path": "Assets/Signs/annul.anim"
+        },
+        {
+            "key": "another",
+            "path": "Assets/Signs/another.anim"
+        },
+        {
+            "key": "answer",
+            "path": "Assets/Signs/answer.anim"
+        },
+        {
+            "key": "answer_one_handed",
+            "path": "Assets/Signs/answer_one_handed.anim"
+        },
+        {
+            "key": "ant",
+            "path": "Assets/Signs/ant.anim"
+        },
+        {
+            "key": "antagonism",
+            "path": "Assets/Signs/antagonism.anim"
+        },
+        {
+            "key": "anthem",
+            "path": "Assets/Signs/anthem.anim"
+        },
+        {
+            "key": "anthropology",
+            "path": "Assets/Signs/anthropology.anim"
+        },
+        {
+            "key": "anti",
+            "path": "Assets/Signs/anti.anim"
+        },
+        {
+            "key": "antichrist",
+            "path": "Assets/Signs/antichrist.anim"
+        },
+        {
+            "key": "anticipate",
+            "path": "Assets/Signs/anticipate.anim"
+        },
+        {
+            "key": "antidote",
+            "path": "Assets/Signs/antidote.anim"
+        },
+        {
+            "key": "antifreeze_1_2023710_animation001",
+            "path": "Assets/Signs/antifreeze_1_2023710_animation001.anim"
+        },
+        {
+            "key": "antigravity",
+            "path": "Assets/Signs/antigravity.anim"
+        },
+        {
+            "key": "antigua_and_barbardos",
+            "path": "Assets/Signs/antigua_and_barbardos.anim"
+        },
+        {
+            "key": "antique",
+            "path": "Assets/Signs/antique.anim"
+        },
+        {
+            "key": "antiscocial",
+            "path": "Assets/Signs/antiscocial.anim"
+        },
+        {
+            "key": "antithesis",
+            "path": "Assets/Signs/antithesis.anim"
+        },
+        {
+            "key": "antler",
+            "path": "Assets/Signs/antler.anim"
+        },
+        {
+            "key": "antonym",
+            "path": "Assets/Signs/antonym.anim"
+        },
+        {
+            "key": "anxious",
+            "path": "Assets/Signs/anxious.anim"
+        },
+        {
+            "key": "anxious_other_variant",
+            "path": "Assets/Signs/anxious_other_variant.anim"
+        },
+        {
+            "key": "anxious_variant",
+            "path": "Assets/Signs/anxious_variant.anim"
+        },
+        {
+            "key": "any",
+            "path": "Assets/Signs/any.anim"
+        },
+        {
+            "key": "anybody",
+            "path": "Assets/Signs/anybody.anim"
+        },
+        {
+            "key": "anymore",
+            "path": "Assets/Signs/anymore.anim"
+        },
+        {
+            "key": "anyone",
+            "path": "Assets/Signs/anyone.anim"
+        },
+        {
+            "key": "anything",
+            "path": "Assets/Signs/anything.anim"
+        },
+        {
+            "key": "anything_onehanded",
+            "path": "Assets/Signs/anything_onehanded.anim"
+        },
+        {
+            "key": "anytime",
+            "path": "Assets/Signs/anytime.anim"
+        },
+        {
+            "key": "anywhere",
+            "path": "Assets/Signs/anywhere.anim"
+        },
+        {
+            "key": "apart",
+            "path": "Assets/Signs/apart.anim"
+        },
+        {
+            "key": "apartment",
+            "path": "Assets/Signs/apartment.anim"
+        },
+        {
+            "key": "apathetic",
+            "path": "Assets/Signs/apathetic.anim"
+        },
+        {
+            "key": "apathy",
+            "path": "Assets/Signs/apathy.anim"
+        },
+        {
+            "key": "ape",
+            "path": "Assets/Signs/ape.anim"
+        },
+        {
+            "key": "apex",
+            "path": "Assets/Signs/apex.anim"
+        },
+        {
+            "key": "apology",
+            "path": "Assets/Signs/apology.anim"
+        },
+        {
+            "key": "apostrophe",
+            "path": "Assets/Signs/apostrophe.anim"
+        },
+        {
+            "key": "app",
+            "path": "Assets/Signs/app.anim"
+        },
+        {
+            "key": "appall",
+            "path": "Assets/Signs/appall.anim"
+        },
+        {
+            "key": "appalling",
+            "path": "Assets/Signs/appalling.anim"
+        },
+        {
+            "key": "apparent",
+            "path": "Assets/Signs/apparent.anim"
+        },
+        {
+            "key": "apparently",
+            "path": "Assets/Signs/apparently.anim"
+        },
+        {
+            "key": "applaud",
+            "path": "Assets/Signs/applaud.anim"
+        },
+        {
+            "key": "apple",
+            "path": "Assets/Signs/apple.anim"
+        },
+        {
+            "key": "application",
+            "path": "Assets/Signs/application.anim"
+        },
+        {
+            "key": "apply",
+            "path": "Assets/Signs/apply.anim"
+        },
+        {
+            "key": "appoint",
+            "path": "Assets/Signs/appoint.anim"
+        },
+        {
+            "key": "appointment",
+            "path": "Assets/Signs/appointment.anim"
+        },
+        {
+            "key": "appraisal",
+            "path": "Assets/Signs/appraisal.anim"
+        },
+        {
+            "key": "appreciate",
+            "path": "Assets/Signs/appreciate.anim"
+        },
+        {
+            "key": "appreciate_one_handed",
+            "path": "Assets/Signs/appreciate_one_handed.anim"
+        },
+        {
+            "key": "apprehend",
+            "path": "Assets/Signs/apprehend.anim"
+        },
+        {
+            "key": "apprehensive",
+            "path": "Assets/Signs/apprehensive.anim"
+        },
+        {
+            "key": "apprise",
+            "path": "Assets/Signs/apprise.anim"
+        },
+        {
+            "key": "approach",
+            "path": "Assets/Signs/approach.anim"
+        },
+        {
+            "key": "approaching_me",
+            "path": "Assets/Signs/approaching_me.anim"
+        },
+        {
+            "key": "appropriate",
+            "path": "Assets/Signs/appropriate.anim"
+        },
+        {
+            "key": "approval",
+            "path": "Assets/Signs/approval.anim"
+        },
+        {
+            "key": "approximate",
+            "path": "Assets/Signs/approximate.anim"
+        },
+        {
+            "key": "apron",
+            "path": "Assets/Signs/apron.anim"
+        },
+        {
+            "key": "aquarium",
+            "path": "Assets/Signs/aquarium.anim"
+        },
+        {
+            "key": "arabic",
+            "path": "Assets/Signs/arabic.anim"
+        },
+        {
+            "key": "arbor",
+            "path": "Assets/Signs/arbor.anim"
+        },
+        {
+            "key": "arc",
+            "path": "Assets/Signs/arc.anim"
+        },
+        {
+            "key": "arch",
+            "path": "Assets/Signs/arch.anim"
+        },
+        {
+            "key": "archaelogy",
+            "path": "Assets/Signs/archaelogy.anim"
+        },
+        {
+            "key": "archbishop",
+            "path": "Assets/Signs/archbishop.anim"
+        },
+        {
+            "key": "archepeligo",
+            "path": "Assets/Signs/archepeligo.anim"
+        },
+        {
+            "key": "archery",
+            "path": "Assets/Signs/archery.anim"
+        },
+        {
+            "key": "architect",
+            "path": "Assets/Signs/architect.anim"
+        },
+        {
+            "key": "architect_variant",
+            "path": "Assets/Signs/architect_variant.anim"
+        },
+        {
+            "key": "architecture",
+            "path": "Assets/Signs/architecture.anim"
+        },
+        {
+            "key": "arctic",
+            "path": "Assets/Signs/arctic.anim"
+        },
+        {
+            "key": "ardent",
+            "path": "Assets/Signs/ardent.anim"
+        },
+        {
+            "key": "ardous",
+            "path": "Assets/Signs/ardous.anim"
+        },
+        {
+            "key": "area",
+            "path": "Assets/Signs/area.anim"
+        },
+        {
+            "key": "arena",
+            "path": "Assets/Signs/arena.anim"
+        },
+        {
+            "key": "arm",
+            "path": "Assets/Signs/arm.anim"
+        },
+        {
+            "key": "armed_forces",
+            "path": "Assets/Signs/armed_forces.anim"
+        },
+        {
+            "key": "armenia",
+            "path": "Assets/Signs/armenia.anim"
+        },
+        {
+            "key": "armidillo",
+            "path": "Assets/Signs/armidillo.anim"
+        },
+        {
+            "key": "armpits",
+            "path": "Assets/Signs/armpits.anim"
+        },
+        {
+            "key": "arms",
+            "path": "Assets/Signs/arms.anim"
+        },
+        {
+            "key": "army",
+            "path": "Assets/Signs/army.anim"
+        },
+        {
+            "key": "army_tank",
+            "path": "Assets/Signs/army_tank.anim"
+        },
+        {
+            "key": "aromatic",
+            "path": "Assets/Signs/aromatic.anim"
+        },
+        {
+            "key": "around",
+            "path": "Assets/Signs/around.anim"
+        },
+        {
+            "key": "arouse",
+            "path": "Assets/Signs/arouse.anim"
+        },
+        {
+            "key": "arrange",
+            "path": "Assets/Signs/arrange.anim"
+        },
+        {
+            "key": "arranged_marriage",
+            "path": "Assets/Signs/arranged_marriage.anim"
+        },
+        {
+            "key": "arrest",
+            "path": "Assets/Signs/arrest.anim"
+        },
+        {
+            "key": "arrest_warrant",
+            "path": "Assets/Signs/arrest_warrant.anim"
+        },
+        {
+            "key": "arrival_time",
+            "path": "Assets/Signs/arrival_time.anim"
+        },
+        {
+            "key": "arrive",
+            "path": "Assets/Signs/arrive.anim"
+        },
+        {
+            "key": "arrogant",
+            "path": "Assets/Signs/arrogant.anim"
+        },
+        {
+            "key": "arrow",
+            "path": "Assets/Signs/arrow.anim"
+        },
+        {
+            "key": "arson",
+            "path": "Assets/Signs/arson.anim"
+        },
+        {
+            "key": "art",
+            "path": "Assets/Signs/art.anim"
+        },
+        {
+            "key": "art_gallery",
+            "path": "Assets/Signs/art_gallery.anim"
+        },
+        {
+            "key": "article",
+            "path": "Assets/Signs/article.anim"
+        },
+        {
+            "key": "articulate",
+            "path": "Assets/Signs/articulate.anim"
+        },
+        {
+            "key": "artifact",
+            "path": "Assets/Signs/artifact.anim"
+        },
+        {
+            "key": "artificial",
+            "path": "Assets/Signs/artificial.anim"
+        },
+        {
+            "key": "artificial_variant",
+            "path": "Assets/Signs/artificial_variant.anim"
+        },
+        {
+            "key": "artist",
+            "path": "Assets/Signs/artist.anim"
+        },
+        {
+            "key": "as",
+            "path": "Assets/Signs/as.anim"
+        },
+        {
+            "key": "as_well",
+            "path": "Assets/Signs/as_well.anim"
+        },
+        {
+            "key": "ascend",
+            "path": "Assets/Signs/ascend.anim"
+        },
+        {
+            "key": "ascend_variant",
+            "path": "Assets/Signs/ascend_variant.anim"
+        },
+        {
+            "key": "ascend_variant_plane",
+            "path": "Assets/Signs/ascend_variant_plane.anim"
+        },
+        {
+            "key": "ascension",
+            "path": "Assets/Signs/ascension.anim"
+        },
+        {
+            "key": "asexual",
+            "path": "Assets/Signs/asexual.anim"
+        },
+        {
+            "key": "ash_wednesday",
+            "path": "Assets/Signs/ash_wednesday.anim"
+        },
+        {
+            "key": "ashamed",
+            "path": "Assets/Signs/ashamed.anim"
+        },
+        {
+            "key": "asia",
+            "path": "Assets/Signs/asia.anim"
+        },
+        {
+            "key": "asia_1_2023830_animation001",
+            "path": "Assets/Signs/asia_1_2023830_animation001.anim"
+        },
+        {
+            "key": "asia_variant",
+            "path": "Assets/Signs/asia_variant.anim"
+        },
+        {
+            "key": "aside",
+            "path": "Assets/Signs/aside.anim"
+        },
+        {
+            "key": "asinine",
+            "path": "Assets/Signs/asinine.anim"
+        },
+        {
+            "key": "ask",
+            "path": "Assets/Signs/ask.anim"
+        },
+        {
+            "key": "ask_around",
+            "path": "Assets/Signs/ask_around.anim"
+        },
+        {
+            "key": "ask_away",
+            "path": "Assets/Signs/ask_away.anim"
+        },
+        {
+            "key": "ask_for_it",
+            "path": "Assets/Signs/ask_for_it.anim"
+        },
+        {
+            "key": "ask_out",
+            "path": "Assets/Signs/ask_out.anim"
+        },
+        {
+            "key": "ask_request",
+            "path": "Assets/Signs/ask_request.anim"
+        },
+        {
+            "key": "ask_you",
+            "path": "Assets/Signs/ask_you.anim"
+        },
+        {
+            "key": "askew",
+            "path": "Assets/Signs/askew.anim"
+        },
+        {
+            "key": "asking_price",
+            "path": "Assets/Signs/asking_price.anim"
+        },
+        {
+            "key": "asl",
+            "path": "Assets/Signs/asl.anim"
+        },
+        {
+            "key": "asl_writing",
+            "path": "Assets/Signs/asl_writing.anim"
+        },
+        {
+            "key": "asl_zone",
+            "path": "Assets/Signs/asl_zone.anim"
+        },
+        {
+            "key": "asleep",
+            "path": "Assets/Signs/asleep.anim"
+        },
+        {
+            "key": "aspect",
+            "path": "Assets/Signs/aspect.anim"
+        },
+        {
+            "key": "asphyxiate",
+            "path": "Assets/Signs/asphyxiate.anim"
+        },
+        {
+            "key": "aspire",
+            "path": "Assets/Signs/aspire.anim"
+        },
+        {
+            "key": "aspirin",
+            "path": "Assets/Signs/aspirin.anim"
+        },
+        {
+            "key": "ass",
+            "path": "Assets/Signs/ass.anim"
+        },
+        {
+            "key": "assassin",
+            "path": "Assets/Signs/assassin.anim"
+        },
+        {
+            "key": "assassinate",
+            "path": "Assets/Signs/assassinate.anim"
+        },
+        {
+            "key": "assault",
+            "path": "Assets/Signs/assault.anim"
+        },
+        {
+            "key": "assemble",
+            "path": "Assets/Signs/assemble.anim"
+        },
+        {
+            "key": "assemble_variant",
+            "path": "Assets/Signs/assemble_variant.anim"
+        },
+        {
+            "key": "assemble_variant_extended",
+            "path": "Assets/Signs/assemble_variant_extended.anim"
+        },
+        {
+            "key": "assemble_variant_other",
+            "path": "Assets/Signs/assemble_variant_other.anim"
+        },
+        {
+            "key": "assembly",
+            "path": "Assets/Signs/assembly.anim"
+        },
+        {
+            "key": "assembly_line",
+            "path": "Assets/Signs/assembly_line.anim"
+        },
+        {
+            "key": "assembly_of_god",
+            "path": "Assets/Signs/assembly_of_god.anim"
+        },
+        {
+            "key": "assert",
+            "path": "Assets/Signs/assert.anim"
+        },
+        {
+            "key": "assertive",
+            "path": "Assets/Signs/assertive.anim"
+        },
+        {
+            "key": "assess",
+            "path": "Assets/Signs/assess.anim"
+        },
+        {
+            "key": "assess_other",
+            "path": "Assets/Signs/assess_other.anim"
+        },
+        {
+            "key": "assess_other_variant",
+            "path": "Assets/Signs/assess_other_variant.anim"
+        },
+        {
+            "key": "asset",
+            "path": "Assets/Signs/asset.anim"
+        },
+        {
+            "key": "asset_finance",
+            "path": "Assets/Signs/asset_finance.anim"
+        },
+        {
+            "key": "asshole",
+            "path": "Assets/Signs/asshole.anim"
+        },
+        {
+            "key": "asshole_variant",
+            "path": "Assets/Signs/asshole_variant.anim"
+        },
+        {
+            "key": "assign",
+            "path": "Assets/Signs/assign.anim"
+        },
+        {
+            "key": "assign_two_handed",
+            "path": "Assets/Signs/assign_two_handed.anim"
+        },
+        {
+            "key": "assignment",
+            "path": "Assets/Signs/assignment.anim"
+        },
+        {
+            "key": "assimilate",
+            "path": "Assets/Signs/assimilate.anim"
+        },
+        {
+            "key": "assimilate_variant",
+            "path": "Assets/Signs/assimilate_variant.anim"
+        },
+        {
+            "key": "assist",
+            "path": "Assets/Signs/assist.anim"
+        },
+        {
+            "key": "astray",
+            "path": "Assets/Signs/astray.anim"
+        },
+        {
+            "key": "astronaut",
+            "path": "Assets/Signs/astronaut.anim"
+        },
+        {
+            "key": "astronomy",
+            "path": "Assets/Signs/astronomy.anim"
+        },
+        {
+            "key": "astute",
+            "path": "Assets/Signs/astute.anim"
+        },
+        {
+            "key": "asylum",
+            "path": "Assets/Signs/asylum.anim"
+        },
+        {
+            "key": "asylum_place",
+            "path": "Assets/Signs/asylum_place.anim"
+        },
+        {
+            "key": "at_symbol",
+            "path": "Assets/Signs/at_symbol.anim"
+        },
+        {
+            "key": "atheism",
+            "path": "Assets/Signs/atheism.anim"
+        },
+        {
+            "key": "athens_greece",
+            "path": "Assets/Signs/athens_greece.anim"
+        },
+        {
+            "key": "athlete",
+            "path": "Assets/Signs/athlete.anim"
+        },
+        {
+            "key": "athlete_extended",
+            "path": "Assets/Signs/athlete_extended.anim"
+        },
+        {
+            "key": "athlete_one_handed",
+            "path": "Assets/Signs/athlete_one_handed.anim"
+        },
+        {
+            "key": "athletic_pants",
+            "path": "Assets/Signs/athletic_pants.anim"
+        },
+        {
+            "key": "athletic_wear",
+            "path": "Assets/Signs/athletic_wear.anim"
+        },
+        {
+            "key": "atlanta",
+            "path": "Assets/Signs/atlanta.anim"
+        },
+        {
+            "key": "atm",
+            "path": "Assets/Signs/atm.anim"
+        },
+        {
+            "key": "atmosphere",
+            "path": "Assets/Signs/atmosphere.anim"
+        },
+        {
+            "key": "atmosphere_variant",
+            "path": "Assets/Signs/atmosphere_variant.anim"
+        },
+        {
+            "key": "atom",
+            "path": "Assets/Signs/atom.anim"
+        },
+        {
+            "key": "atone",
+            "path": "Assets/Signs/atone.anim"
+        },
+        {
+            "key": "attach",
+            "path": "Assets/Signs/attach.anim"
+        },
+        {
+            "key": "attack",
+            "path": "Assets/Signs/attack.anim"
+        },
+        {
+            "key": "attack_1_20231015_p1",
+            "path": "Assets/Signs/attack_1_20231015_p1.anim"
+        },
+        {
+            "key": "attack_20231015_p2",
+            "path": "Assets/Signs/attack_20231015_p2.anim"
+        },
+        {
+            "key": "attain",
+            "path": "Assets/Signs/attain.anim"
+        },
+        {
+            "key": "attain_3_20231016_p3",
+            "path": "Assets/Signs/attain_3_20231016_p3.anim"
+        },
+        {
+            "key": "attempt",
+            "path": "Assets/Signs/attempt.anim"
+        },
+        {
+            "key": "attend",
+            "path": "Assets/Signs/attend.anim"
+        },
+        {
+            "key": "attention",
+            "path": "Assets/Signs/attention.anim"
+        },
+        {
+            "key": "attention_deficit_disorder",
+            "path": "Assets/Signs/attention_deficit_disorder.anim"
+        },
+        {
+            "key": "attention_seeking",
+            "path": "Assets/Signs/attention_seeking.anim"
+        },
+        {
+            "key": "attentive",
+            "path": "Assets/Signs/attentive.anim"
+        },
+        {
+            "key": "attest",
+            "path": "Assets/Signs/attest.anim"
+        },
+        {
+            "key": "attic",
+            "path": "Assets/Signs/attic.anim"
+        },
+        {
+            "key": "attitude",
+            "path": "Assets/Signs/attitude.anim"
+        },
+        {
+            "key": "attorney",
+            "path": "Assets/Signs/attorney.anim"
+        },
+        {
+            "key": "attract",
+            "path": "Assets/Signs/attract.anim"
+        },
+        {
+            "key": "attract_atention",
+            "path": "Assets/Signs/attract_atention.anim"
+        },
+        {
+            "key": "attract_gravity",
+            "path": "Assets/Signs/attract_gravity.anim"
+        },
+        {
+            "key": "attract_one_handed",
+            "path": "Assets/Signs/attract_one_handed.anim"
+        },
+        {
+            "key": "attractive",
+            "path": "Assets/Signs/attractive.anim"
+        },
+        {
+            "key": "attribute",
+            "path": "Assets/Signs/attribute.anim"
+        },
+        {
+            "key": "auckland",
+            "path": "Assets/Signs/auckland.anim"
+        },
+        {
+            "key": "auction",
+            "path": "Assets/Signs/auction.anim"
+        },
+        {
+            "key": "audacious",
+            "path": "Assets/Signs/audacious.anim"
+        },
+        {
+            "key": "audicity",
+            "path": "Assets/Signs/audicity.anim"
+        },
+        {
+            "key": "audience",
+            "path": "Assets/Signs/audience.anim"
+        },
+        {
+            "key": "audiologist",
+            "path": "Assets/Signs/audiologist.anim"
+        },
+        {
+            "key": "audiology",
+            "path": "Assets/Signs/audiology.anim"
+        },
+        {
+            "key": "audism",
+            "path": "Assets/Signs/audism.anim"
+        },
+        {
+            "key": "auditory",
+            "path": "Assets/Signs/auditory.anim"
+        },
+        {
+            "key": "audtion",
+            "path": "Assets/Signs/audtion.anim"
+        },
+        {
+            "key": "august",
+            "path": "Assets/Signs/august.anim"
+        },
+        {
+            "key": "aunt",
+            "path": "Assets/Signs/aunt.anim"
+        },
+        {
+            "key": "aural",
+            "path": "Assets/Signs/aural.anim"
+        },
+        {
+            "key": "auralcentric",
+            "path": "Assets/Signs/auralcentric.anim"
+        },
+        {
+            "key": "auslan",
+            "path": "Assets/Signs/auslan.anim"
+        },
+        {
+            "key": "australia",
+            "path": "Assets/Signs/australia.anim"
+        },
+        {
+            "key": "australia_2_2023116_p1",
+            "path": "Assets/Signs/australia_2_2023116_p1.anim"
+        },
+        {
+            "key": "austria",
+            "path": "Assets/Signs/austria.anim"
+        },
+        {
+            "key": "austrian",
+            "path": "Assets/Signs/austrian.anim"
+        },
+        {
+            "key": "authentic",
+            "path": "Assets/Signs/authentic.anim"
+        },
+        {
+            "key": "author",
+            "path": "Assets/Signs/author.anim"
+        },
+        {
+            "key": "authority",
+            "path": "Assets/Signs/authority.anim"
+        },
+        {
+            "key": "authority_additional_variant",
+            "path": "Assets/Signs/authority_additional_variant.anim"
+        },
+        {
+            "key": "authority_other_variant",
+            "path": "Assets/Signs/authority_other_variant.anim"
+        },
+        {
+            "key": "authority_variant",
+            "path": "Assets/Signs/authority_variant.anim"
+        },
+        {
+            "key": "authorize",
+            "path": "Assets/Signs/authorize.anim"
+        },
+        {
+            "key": "autism",
+            "path": "Assets/Signs/autism.anim"
+        },
+        {
+            "key": "auto_insurance",
+            "path": "Assets/Signs/auto_insurance.anim"
+        },
+        {
+            "key": "auto_mechanic",
+            "path": "Assets/Signs/auto_mechanic.anim"
+        },
+        {
+            "key": "auto_mechanic_extended",
+            "path": "Assets/Signs/auto_mechanic_extended.anim"
+        },
+        {
+            "key": "autobody",
+            "path": "Assets/Signs/autobody.anim"
+        },
+        {
+            "key": "automatic",
+            "path": "Assets/Signs/automatic.anim"
+        },
+        {
+            "key": "automatic_short",
+            "path": "Assets/Signs/automatic_short.anim"
+        },
+        {
+            "key": "automation",
+            "path": "Assets/Signs/automation.anim"
+        },
+        {
+            "key": "automobile",
+            "path": "Assets/Signs/automobile.anim"
+        },
+        {
+            "key": "autopsy",
+            "path": "Assets/Signs/autopsy.anim"
+        },
+        {
+            "key": "awestruck",
+            "path": "Assets/Signs/awestruck.anim"
+        },
+        {
+            "key": "awful",
+            "path": "Assets/Signs/awful.anim"
+        },
+        {
+            "key": "awkward",
+            "path": "Assets/Signs/awkward.anim"
+        },
+        {
+            "key": "awry",
+            "path": "Assets/Signs/awry.anim"
+        },
+        {
+            "key": "aww",
+            "path": "Assets/Signs/aww.anim"
+        },
+        {
+            "key": "axe",
+            "path": "Assets/Signs/axe.anim"
+        },
+        {
+            "key": "azerbaijan",
+            "path": "Assets/Signs/azerbaijan.anim"
+        },
+        {
+            "key": "b",
+            "path": "Assets/Signs/b.anim"
+        },
+        {
+            "key": "babble",
+            "path": "Assets/Signs/babble.anim"
+        },
+        {
+            "key": "babble_motion_spin",
+            "path": "Assets/Signs/babble_motion_spin.anim"
+        },
+        {
+            "key": "babble_motion_spin_2_handed",
+            "path": "Assets/Signs/babble_motion_spin_2_handed.anim"
+        },
+        {
+            "key": "baby",
+            "path": "Assets/Signs/baby.anim"
+        },
+        {
+            "key": "baby_sweetheart",
+            "path": "Assets/Signs/baby_sweetheart.anim"
+        },
+        {
+            "key": "babyish",
+            "path": "Assets/Signs/babyish.anim"
+        },
+        {
+            "key": "babysit",
+            "path": "Assets/Signs/babysit.anim"
+        },
+        {
+            "key": "babysitter",
+            "path": "Assets/Signs/babysitter.anim"
+        },
+        {
+            "key": "back_and_forth",
+            "path": "Assets/Signs/back_and_forth.anim"
+        },
+        {
+            "key": "back_out",
+            "path": "Assets/Signs/back_out.anim"
+        },
+        {
+            "key": "back_up",
+            "path": "Assets/Signs/back_up.anim"
+        },
+        {
+            "key": "backbiting",
+            "path": "Assets/Signs/backbiting.anim"
+        },
+        {
+            "key": "backdrop",
+            "path": "Assets/Signs/backdrop.anim"
+        },
+        {
+            "key": "background",
+            "path": "Assets/Signs/background.anim"
+        },
+        {
+            "key": "backlash",
+            "path": "Assets/Signs/backlash.anim"
+        },
+        {
+            "key": "backlight",
+            "path": "Assets/Signs/backlight.anim"
+        },
+        {
+            "key": "backlog",
+            "path": "Assets/Signs/backlog.anim"
+        },
+        {
+            "key": "backpack",
+            "path": "Assets/Signs/backpack.anim"
+        },
+        {
+            "key": "backpacking",
+            "path": "Assets/Signs/backpacking.anim"
+        },
+        {
+            "key": "backpay",
+            "path": "Assets/Signs/backpay.anim"
+        },
+        {
+            "key": "backpedaling",
+            "path": "Assets/Signs/backpedaling.anim"
+        },
+        {
+            "key": "backstab",
+            "path": "Assets/Signs/backstab.anim"
+        },
+        {
+            "key": "backstroke",
+            "path": "Assets/Signs/backstroke.anim"
+        },
+        {
+            "key": "backup_other",
+            "path": "Assets/Signs/backup_other.anim"
+        },
+        {
+            "key": "backward",
+            "path": "Assets/Signs/backward.anim"
+        },
+        {
+            "key": "backyard",
+            "path": "Assets/Signs/backyard.anim"
+        },
+        {
+            "key": "bacon",
+            "path": "Assets/Signs/bacon.anim"
+        },
+        {
+            "key": "bad",
+            "path": "Assets/Signs/bad.anim"
+        },
+        {
+            "key": "bad_action",
+            "path": "Assets/Signs/bad_action.anim"
+        },
+        {
+            "key": "bad_breath",
+            "path": "Assets/Signs/bad_breath.anim"
+        },
+        {
+            "key": "bad_mannered",
+            "path": "Assets/Signs/bad_mannered.anim"
+        },
+        {
+            "key": "bad_repuation",
+            "path": "Assets/Signs/bad_repuation.anim"
+        },
+        {
+            "key": "badge",
+            "path": "Assets/Signs/badge.anim"
+        },
+        {
+            "key": "badger",
+            "path": "Assets/Signs/badger.anim"
+        },
+        {
+            "key": "badminton",
+            "path": "Assets/Signs/badminton.anim"
+        },
+        {
+            "key": "badmouthing",
+            "path": "Assets/Signs/badmouthing.anim"
+        },
+        {
+            "key": "baffle",
+            "path": "Assets/Signs/baffle.anim"
+        },
+        {
+            "key": "bag",
+            "path": "Assets/Signs/bag.anim"
+        },
+        {
+            "key": "bagel",
+            "path": "Assets/Signs/bagel.anim"
+        },
+        {
+            "key": "baguette",
+            "path": "Assets/Signs/baguette.anim"
+        },
+        {
+            "key": "bahamas",
+            "path": "Assets/Signs/bahamas.anim"
+        },
+        {
+            "key": "bahrain",
+            "path": "Assets/Signs/bahrain.anim"
+        },
+        {
+            "key": "baird_chuck",
+            "path": "Assets/Signs/baird_chuck.anim"
+        },
+        {
+            "key": "bait",
+            "path": "Assets/Signs/bait.anim"
+        },
+        {
+            "key": "bake",
+            "path": "Assets/Signs/bake.anim"
+        },
+        {
+            "key": "balance",
+            "path": "Assets/Signs/balance.anim"
+        },
+        {
+            "key": "balcony",
+            "path": "Assets/Signs/balcony.anim"
+        },
+        {
+            "key": "bald",
+            "path": "Assets/Signs/bald.anim"
+        },
+        {
+            "key": "baliff",
+            "path": "Assets/Signs/baliff.anim"
+        },
+        {
+            "key": "balk",
+            "path": "Assets/Signs/balk.anim"
+        },
+        {
+            "key": "ball",
+            "path": "Assets/Signs/ball.anim"
+        },
+        {
+            "key": "ball_cap",
+            "path": "Assets/Signs/ball_cap.anim"
+        },
+        {
+            "key": "ballerina",
+            "path": "Assets/Signs/ballerina.anim"
+        },
+        {
+            "key": "ballistic",
+            "path": "Assets/Signs/ballistic.anim"
+        },
+        {
+            "key": "balloon",
+            "path": "Assets/Signs/balloon.anim"
+        },
+        {
+            "key": "ballot",
+            "path": "Assets/Signs/ballot.anim"
+        },
+        {
+            "key": "ballroom",
+            "path": "Assets/Signs/ballroom.anim"
+        },
+        {
+            "key": "baloney",
+            "path": "Assets/Signs/baloney.anim"
+        },
+        {
+            "key": "baltimore",
+            "path": "Assets/Signs/baltimore.anim"
+        },
+        {
+            "key": "bam",
+            "path": "Assets/Signs/bam.anim"
+        },
+        {
+            "key": "bamboozle",
+            "path": "Assets/Signs/bamboozle.anim"
+        },
+        {
+            "key": "ban",
+            "path": "Assets/Signs/ban.anim"
+        },
+        {
+            "key": "banal",
+            "path": "Assets/Signs/banal.anim"
+        },
+        {
+            "key": "banana",
+            "path": "Assets/Signs/banana.anim"
+        },
+        {
+            "key": "band",
+            "path": "Assets/Signs/band.anim"
+        },
+        {
+            "key": "band_90_degree_20231224_animation001",
+            "path": "Assets/Signs/band_90_degree_20231224_animation001.anim"
+        },
+        {
+            "key": "band_90_degree_variant",
+            "path": "Assets/Signs/band_90_degree_variant.anim"
+        },
+        {
+            "key": "band_aid",
+            "path": "Assets/Signs/band_aid.anim"
+        },
+        {
+            "key": "band_music",
+            "path": "Assets/Signs/band_music.anim"
+        },
+        {
+            "key": "bandage",
+            "path": "Assets/Signs/bandage.anim"
+        },
+        {
+            "key": "bandit",
+            "path": "Assets/Signs/bandit.anim"
+        },
+        {
+            "key": "bang",
+            "path": "Assets/Signs/bang.anim"
+        },
+        {
+            "key": "bang_up",
+            "path": "Assets/Signs/bang_up.anim"
+        },
+        {
+            "key": "bangkok",
+            "path": "Assets/Signs/bangkok.anim"
+        },
+        {
+            "key": "bangs",
+            "path": "Assets/Signs/bangs.anim"
+        },
+        {
+            "key": "banish",
+            "path": "Assets/Signs/banish.anim"
+        },
+        {
+            "key": "banjo",
+            "path": "Assets/Signs/banjo.anim"
+        },
+        {
+            "key": "bank",
+            "path": "Assets/Signs/bank.anim"
+        },
+        {
+            "key": "bankrupt",
+            "path": "Assets/Signs/bankrupt.anim"
+        },
+        {
+            "key": "banner",
+            "path": "Assets/Signs/banner.anim"
+        },
+        {
+            "key": "banquet",
+            "path": "Assets/Signs/banquet.anim"
+        },
+        {
+            "key": "banter",
+            "path": "Assets/Signs/banter.anim"
+        },
+        {
+            "key": "baptism",
+            "path": "Assets/Signs/baptism.anim"
+        },
+        {
+            "key": "bar",
+            "path": "Assets/Signs/bar.anim"
+        },
+        {
+            "key": "bar_mitzvah",
+            "path": "Assets/Signs/bar_mitzvah.anim"
+        },
+        {
+            "key": "barbados",
+            "path": "Assets/Signs/barbados.anim"
+        },
+        {
+            "key": "barbaric",
+            "path": "Assets/Signs/barbaric.anim"
+        },
+        {
+            "key": "barbed_wire",
+            "path": "Assets/Signs/barbed_wire.anim"
+        },
+        {
+            "key": "barber",
+            "path": "Assets/Signs/barber.anim"
+        },
+        {
+            "key": "barcelona",
+            "path": "Assets/Signs/barcelona.anim"
+        },
+        {
+            "key": "bare",
+            "path": "Assets/Signs/bare.anim"
+        },
+        {
+            "key": "barely",
+            "path": "Assets/Signs/barely.anim"
+        },
+        {
+            "key": "bargain",
+            "path": "Assets/Signs/bargain.anim"
+        },
+        {
+            "key": "bargin",
+            "path": "Assets/Signs/bargin.anim"
+        },
+        {
+            "key": "bark",
+            "path": "Assets/Signs/bark.anim"
+        },
+        {
+            "key": "barn",
+            "path": "Assets/Signs/barn.anim"
+        },
+        {
+            "key": "barometer",
+            "path": "Assets/Signs/barometer.anim"
+        },
+        {
+            "key": "barrage",
+            "path": "Assets/Signs/barrage.anim"
+        },
+        {
+            "key": "barren",
+            "path": "Assets/Signs/barren.anim"
+        },
+        {
+            "key": "barrier",
+            "path": "Assets/Signs/barrier.anim"
+        },
+        {
+            "key": "barter",
+            "path": "Assets/Signs/barter.anim"
+        },
+        {
+            "key": "base_on",
+            "path": "Assets/Signs/base_on.anim"
+        },
+        {
+            "key": "baseball",
+            "path": "Assets/Signs/baseball.anim"
+        },
+        {
+            "key": "baseball_glove",
+            "path": "Assets/Signs/baseball_glove.anim"
+        },
+        {
+            "key": "baseball_pitcher",
+            "path": "Assets/Signs/baseball_pitcher.anim"
+        },
+        {
+            "key": "baseball_player",
+            "path": "Assets/Signs/baseball_player.anim"
+        },
+        {
+            "key": "based_on",
+            "path": "Assets/Signs/based_on.anim"
+        },
+        {
+            "key": "baseless",
+            "path": "Assets/Signs/baseless.anim"
+        },
+        {
+            "key": "basement",
+            "path": "Assets/Signs/basement.anim"
+        },
+        {
+            "key": "bash",
+            "path": "Assets/Signs/bash.anim"
+        },
+        {
+            "key": "bashful",
+            "path": "Assets/Signs/bashful.anim"
+        },
+        {
+            "key": "basic",
+            "path": "Assets/Signs/basic.anim"
+        },
+        {
+            "key": "basket",
+            "path": "Assets/Signs/basket.anim"
+        },
+        {
+            "key": "basketball",
+            "path": "Assets/Signs/basketball.anim"
+        },
+        {
+            "key": "bastard",
+            "path": "Assets/Signs/bastard.anim"
+        },
+        {
+            "key": "bat",
+            "path": "Assets/Signs/bat.anim"
+        },
+        {
+            "key": "bat_mitzvah",
+            "path": "Assets/Signs/bat_mitzvah.anim"
+        },
+        {
+            "key": "batch",
+            "path": "Assets/Signs/batch.anim"
+        },
+        {
+            "key": "batch_2_handed",
+            "path": "Assets/Signs/batch_2_handed.anim"
+        },
+        {
+            "key": "bath",
+            "path": "Assets/Signs/bath.anim"
+        },
+        {
+            "key": "bathing_suit",
+            "path": "Assets/Signs/bathing_suit.anim"
+        },
+        {
+            "key": "bathrobe",
+            "path": "Assets/Signs/bathrobe.anim"
+        },
+        {
+            "key": "bathroom",
+            "path": "Assets/Signs/bathroom.anim"
+        },
+        {
+            "key": "bathtime",
+            "path": "Assets/Signs/bathtime.anim"
+        },
+        {
+            "key": "batman",
+            "path": "Assets/Signs/batman.anim"
+        },
+        {
+            "key": "baton_rouge",
+            "path": "Assets/Signs/baton_rouge.anim"
+        },
+        {
+            "key": "batter",
+            "path": "Assets/Signs/batter.anim"
+        },
+        {
+            "key": "battery",
+            "path": "Assets/Signs/battery.anim"
+        },
+        {
+            "key": "batting_average",
+            "path": "Assets/Signs/batting_average.anim"
+        },
+        {
+            "key": "batting_practice",
+            "path": "Assets/Signs/batting_practice.anim"
+        },
+        {
+            "key": "battle",
+            "path": "Assets/Signs/battle.anim"
+        },
+        {
+            "key": "bawl",
+            "path": "Assets/Signs/bawl.anim"
+        },
+        {
+            "key": "bay",
+            "path": "Assets/Signs/bay.anim"
+        },
+        {
+            "key": "bbq",
+            "path": "Assets/Signs/bbq.anim"
+        },
+        {
+            "key": "be_seated",
+            "path": "Assets/Signs/be_seated.anim"
+        },
+        {
+            "key": "be_yourself",
+            "path": "Assets/Signs/be_yourself.anim"
+        },
+        {
+            "key": "beach",
+            "path": "Assets/Signs/beach.anim"
+        },
+        {
+            "key": "bead",
+            "path": "Assets/Signs/bead.anim"
+        },
+        {
+            "key": "bead_necklace",
+            "path": "Assets/Signs/bead_necklace.anim"
+        },
+        {
+            "key": "beak",
+            "path": "Assets/Signs/beak.anim"
+        },
+        {
+            "key": "beam",
+            "path": "Assets/Signs/beam.anim"
+        },
+        {
+            "key": "beanie",
+            "path": "Assets/Signs/beanie.anim"
+        },
+        {
+            "key": "bear",
+            "path": "Assets/Signs/bear.anim"
+        },
+        {
+            "key": "bear_in_mind",
+            "path": "Assets/Signs/bear_in_mind.anim"
+        },
+        {
+            "key": "beard",
+            "path": "Assets/Signs/beard.anim"
+        },
+        {
+            "key": "beast",
+            "path": "Assets/Signs/beast.anim"
+        },
+        {
+            "key": "beat",
+            "path": "Assets/Signs/beat.anim"
+        },
+        {
+            "key": "beat_around_the_bush",
+            "path": "Assets/Signs/beat_around_the_bush.anim"
+        },
+        {
+            "key": "beat_up",
+            "path": "Assets/Signs/beat_up.anim"
+        },
+        {
+            "key": "beau",
+            "path": "Assets/Signs/beau.anim"
+        },
+        {
+            "key": "beauty",
+            "path": "Assets/Signs/beauty.anim"
+        },
+        {
+            "key": "became",
+            "path": "Assets/Signs/became.anim"
+        },
+        {
+            "key": "because",
+            "path": "Assets/Signs/because.anim"
+        },
+        {
+            "key": "beckon",
+            "path": "Assets/Signs/beckon.anim"
+        },
+        {
+            "key": "become",
+            "path": "Assets/Signs/become.anim"
+        },
+        {
+            "key": "bed",
+            "path": "Assets/Signs/bed.anim"
+        },
+        {
+            "key": "bed_1_handed",
+            "path": "Assets/Signs/bed_1_handed.anim"
+        },
+        {
+            "key": "bedlam",
+            "path": "Assets/Signs/bedlam.anim"
+        },
+        {
+            "key": "bedridden",
+            "path": "Assets/Signs/bedridden.anim"
+        },
+        {
+            "key": "bedroom",
+            "path": "Assets/Signs/bedroom.anim"
+        },
+        {
+            "key": "bedspreads",
+            "path": "Assets/Signs/bedspreads.anim"
+        },
+        {
+            "key": "bedtime",
+            "path": "Assets/Signs/bedtime.anim"
+        },
+        {
+            "key": "bedtime_2_handed",
+            "path": "Assets/Signs/bedtime_2_handed.anim"
+        },
+        {
+            "key": "bee",
+            "path": "Assets/Signs/bee.anim"
+        },
+        {
+            "key": "beef",
+            "path": "Assets/Signs/beef.anim"
+        },
+        {
+            "key": "beefy",
+            "path": "Assets/Signs/beefy.anim"
+        },
+        {
+            "key": "beehive",
+            "path": "Assets/Signs/beehive.anim"
+        },
+        {
+            "key": "been",
+            "path": "Assets/Signs/been.anim"
+        },
+        {
+            "key": "been_a_while",
+            "path": "Assets/Signs/been_a_while.anim"
+        },
+        {
+            "key": "been_there",
+            "path": "Assets/Signs/been_there.anim"
+        },
+        {
+            "key": "beep",
+            "path": "Assets/Signs/beep.anim"
+        },
+        {
+            "key": "beeper",
+            "path": "Assets/Signs/beeper.anim"
+        },
+        {
+            "key": "beer",
+            "path": "Assets/Signs/beer.anim"
+        },
+        {
+            "key": "beer_belly",
+            "path": "Assets/Signs/beer_belly.anim"
+        },
+        {
+            "key": "beer_can",
+            "path": "Assets/Signs/beer_can.anim"
+        },
+        {
+            "key": "before",
+            "path": "Assets/Signs/before.anim"
+        },
+        {
+            "key": "befuddle",
+            "path": "Assets/Signs/befuddle.anim"
+        },
+        {
+            "key": "beg",
+            "path": "Assets/Signs/beg.anim"
+        },
+        {
+            "key": "beg_2_handed",
+            "path": "Assets/Signs/beg_2_handed.anim"
+        },
+        {
+            "key": "begin",
+            "path": "Assets/Signs/begin.anim"
+        },
+        {
+            "key": "beginner",
+            "path": "Assets/Signs/beginner.anim"
+        },
+        {
+            "key": "behalf",
+            "path": "Assets/Signs/behalf.anim"
+        },
+        {
+            "key": "behave",
+            "path": "Assets/Signs/behave.anim"
+        },
+        {
+            "key": "behead",
+            "path": "Assets/Signs/behead.anim"
+        },
+        {
+            "key": "behind",
+            "path": "Assets/Signs/behind.anim"
+        },
+        {
+            "key": "beige",
+            "path": "Assets/Signs/beige.anim"
+        },
+        {
+            "key": "beirut",
+            "path": "Assets/Signs/beirut.anim"
+        },
+        {
+            "key": "belarus",
+            "path": "Assets/Signs/belarus.anim"
+        },
+        {
+            "key": "belch",
+            "path": "Assets/Signs/belch.anim"
+        },
+        {
+            "key": "belgium",
+            "path": "Assets/Signs/belgium.anim"
+        },
+        {
+            "key": "belief",
+            "path": "Assets/Signs/belief.anim"
+        },
+        {
+            "key": "belittle",
+            "path": "Assets/Signs/belittle.anim"
+        },
+        {
+            "key": "belize",
+            "path": "Assets/Signs/belize.anim"
+        },
+        {
+            "key": "bell",
+            "path": "Assets/Signs/bell.anim"
+        },
+        {
+            "key": "belligerent",
+            "path": "Assets/Signs/belligerent.anim"
+        },
+        {
+            "key": "bellow",
+            "path": "Assets/Signs/bellow.anim"
+        },
+        {
+            "key": "belly",
+            "path": "Assets/Signs/belly.anim"
+        },
+        {
+            "key": "belong",
+            "path": "Assets/Signs/belong.anim"
+        },
+        {
+            "key": "belong_to_me",
+            "path": "Assets/Signs/belong_to_me.anim"
+        },
+        {
+            "key": "belong_to_them",
+            "path": "Assets/Signs/belong_to_them.anim"
+        },
+        {
+            "key": "beloved",
+            "path": "Assets/Signs/beloved.anim"
+        },
+        {
+            "key": "below",
+            "path": "Assets/Signs/below.anim"
+        },
+        {
+            "key": "belt",
+            "path": "Assets/Signs/belt.anim"
+        },
+        {
+            "key": "bench",
+            "path": "Assets/Signs/bench.anim"
+        },
+        {
+            "key": "bench_2_handed",
+            "path": "Assets/Signs/bench_2_handed.anim"
+        },
+        {
+            "key": "bend_down",
+            "path": "Assets/Signs/bend_down.anim"
+        },
+        {
+            "key": "bend_in",
+            "path": "Assets/Signs/bend_in.anim"
+        },
+        {
+            "key": "bend_object",
+            "path": "Assets/Signs/bend_object.anim"
+        },
+        {
+            "key": "beneath",
+            "path": "Assets/Signs/beneath.anim"
+        },
+        {
+            "key": "benediction",
+            "path": "Assets/Signs/benediction.anim"
+        },
+        {
+            "key": "benefit",
+            "path": "Assets/Signs/benefit.anim"
+        },
+        {
+            "key": "benefit_of_the_doubt",
+            "path": "Assets/Signs/benefit_of_the_doubt.anim"
+        },
+        {
+            "key": "benevolent",
+            "path": "Assets/Signs/benevolent.anim"
+        },
+        {
+            "key": "bengaldesh",
+            "path": "Assets/Signs/bengaldesh.anim"
+        },
+        {
+            "key": "bengladesh",
+            "path": "Assets/Signs/bengladesh.anim"
+        },
+        {
+            "key": "benin",
+            "path": "Assets/Signs/benin.anim"
+        },
+        {
+            "key": "bequeath",
+            "path": "Assets/Signs/bequeath.anim"
+        },
+        {
+            "key": "berate",
+            "path": "Assets/Signs/berate.anim"
+        },
+        {
+            "key": "berries",
+            "path": "Assets/Signs/berries.anim"
+        },
+        {
+            "key": "beseech",
+            "path": "Assets/Signs/beseech.anim"
+        },
+        {
+            "key": "beside",
+            "path": "Assets/Signs/beside.anim"
+        },
+        {
+            "key": "besiege",
+            "path": "Assets/Signs/besiege.anim"
+        },
+        {
+            "key": "best",
+            "path": "Assets/Signs/best.anim"
+        },
+        {
+            "key": "best_friend",
+            "path": "Assets/Signs/best_friend.anim"
+        },
+        {
+            "key": "bestow",
+            "path": "Assets/Signs/bestow.anim"
+        },
+        {
+            "key": "bet",
+            "path": "Assets/Signs/bet.anim"
+        },
+        {
+            "key": "bethlehem",
+            "path": "Assets/Signs/bethlehem.anim"
+        },
+        {
+            "key": "betray",
+            "path": "Assets/Signs/betray.anim"
+        },
+        {
+            "key": "betrayed_me",
+            "path": "Assets/Signs/betrayed_me.anim"
+        },
+        {
+            "key": "better",
+            "path": "Assets/Signs/better.anim"
+        },
+        {
+            "key": "better_half",
+            "path": "Assets/Signs/better_half.anim"
+        },
+        {
+            "key": "between",
+            "path": "Assets/Signs/between.anim"
+        },
+        {
+            "key": "between_me_and_them",
+            "path": "Assets/Signs/between_me_and_them.anim"
+        },
+        {
+            "key": "between_you_and_me",
+            "path": "Assets/Signs/between_you_and_me.anim"
+        },
+        {
+            "key": "beverage",
+            "path": "Assets/Signs/beverage.anim"
+        },
+        {
+            "key": "beware",
+            "path": "Assets/Signs/beware.anim"
+        },
+        {
+            "key": "bewilder",
+            "path": "Assets/Signs/bewilder.anim"
+        },
+        {
+            "key": "bewitch",
+            "path": "Assets/Signs/bewitch.anim"
+        },
+        {
+            "key": "bewitch_2_handed",
+            "path": "Assets/Signs/bewitch_2_handed.anim"
+        },
+        {
+            "key": "bewitch_other",
+            "path": "Assets/Signs/bewitch_other.anim"
+        },
+        {
+            "key": "beyond",
+            "path": "Assets/Signs/beyond.anim"
+        },
+        {
+            "key": "bi",
+            "path": "Assets/Signs/bi.anim"
+        },
+        {
+            "key": "bias",
+            "path": "Assets/Signs/bias.anim"
+        },
+        {
+            "key": "bible",
+            "path": "Assets/Signs/bible.anim"
+        },
+        {
+            "key": "bicultural",
+            "path": "Assets/Signs/bicultural.anim"
+        },
+        {
+            "key": "bicycle",
+            "path": "Assets/Signs/bicycle.anim"
+        },
+        {
+            "key": "bid",
+            "path": "Assets/Signs/bid.anim"
+        },
+        {
+            "key": "big_headed",
+            "path": "Assets/Signs/big_headed.anim"
+        },
+        {
+            "key": "big_shoulders",
+            "path": "Assets/Signs/big_shoulders.anim"
+        },
+        {
+            "key": "big_tall",
+            "path": "Assets/Signs/big_tall.anim"
+        },
+        {
+            "key": "big_wide",
+            "path": "Assets/Signs/big_wide.anim"
+        },
+        {
+            "key": "bill_dollar",
+            "path": "Assets/Signs/bill_dollar.anim"
+        },
+        {
+            "key": "bill_owing",
+            "path": "Assets/Signs/bill_owing.anim"
+        },
+        {
+            "key": "billboard",
+            "path": "Assets/Signs/billboard.anim"
+        },
+        {
+            "key": "billfold",
+            "path": "Assets/Signs/billfold.anim"
+        },
+        {
+            "key": "billiard",
+            "path": "Assets/Signs/billiard.anim"
+        },
+        {
+            "key": "billion",
+            "path": "Assets/Signs/billion.anim"
+        },
+        {
+            "key": "billionaire",
+            "path": "Assets/Signs/billionaire.anim"
+        },
+        {
+            "key": "billow",
+            "path": "Assets/Signs/billow.anim"
+        },
+        {
+            "key": "binder",
+            "path": "Assets/Signs/binder.anim"
+        },
+        {
+            "key": "bindi",
+            "path": "Assets/Signs/bindi.anim"
+        },
+        {
+            "key": "binge",
+            "path": "Assets/Signs/binge.anim"
+        },
+        {
+            "key": "binge_drink",
+            "path": "Assets/Signs/binge_drink.anim"
+        },
+        {
+            "key": "bingo",
+            "path": "Assets/Signs/bingo.anim"
+        },
+        {
+            "key": "binocular",
+            "path": "Assets/Signs/binocular.anim"
+        },
+        {
+            "key": "bio_diversity",
+            "path": "Assets/Signs/bio_diversity.anim"
+        },
+        {
+            "key": "biographical_father",
+            "path": "Assets/Signs/biographical_father.anim"
+        },
+        {
+            "key": "biography",
+            "path": "Assets/Signs/biography.anim"
+        },
+        {
+            "key": "biological_father",
+            "path": "Assets/Signs/biological_father.anim"
+        },
+        {
+            "key": "biological_mother",
+            "path": "Assets/Signs/biological_mother.anim"
+        },
+        {
+            "key": "biology",
+            "path": "Assets/Signs/biology.anim"
+        },
+        {
+            "key": "biospy",
+            "path": "Assets/Signs/biospy.anim"
+        },
+        {
+            "key": "bird",
+            "path": "Assets/Signs/bird.anim"
+        },
+        {
+            "key": "birth",
+            "path": "Assets/Signs/birth.anim"
+        },
+        {
+            "key": "birth_certificate",
+            "path": "Assets/Signs/birth_certificate.anim"
+        },
+        {
+            "key": "birthday",
+            "path": "Assets/Signs/birthday.anim"
+        },
+        {
+            "key": "bishop",
+            "path": "Assets/Signs/bishop.anim"
+        },
+        {
+            "key": "bishop_variant",
+            "path": "Assets/Signs/bishop_variant.anim"
+        },
+        {
+            "key": "bison",
+            "path": "Assets/Signs/bison.anim"
+        },
+        {
+            "key": "bitch",
+            "path": "Assets/Signs/bitch.anim"
+        },
+        {
+            "key": "bite_variant",
+            "path": "Assets/Signs/bite_variant.anim"
+        },
+        {
+            "key": "bitter",
+            "path": "Assets/Signs/bitter.anim"
+        },
+        {
+            "key": "bitter_cold",
+            "path": "Assets/Signs/bitter_cold.anim"
+        },
+        {
+            "key": "bitter_taste",
+            "path": "Assets/Signs/bitter_taste.anim"
+        },
+        {
+            "key": "bizarre",
+            "path": "Assets/Signs/bizarre.anim"
+        },
+        {
+            "key": "blabbermouth_variant",
+            "path": "Assets/Signs/blabbermouth_variant.anim"
+        },
+        {
+            "key": "black",
+            "path": "Assets/Signs/black.anim"
+        },
+        {
+            "key": "black_friday",
+            "path": "Assets/Signs/black_friday.anim"
+        },
+        {
+            "key": "black_hair",
+            "path": "Assets/Signs/black_hair.anim"
+        },
+        {
+            "key": "black_market",
+            "path": "Assets/Signs/black_market.anim"
+        },
+        {
+            "key": "black_out",
+            "path": "Assets/Signs/black_out.anim"
+        },
+        {
+            "key": "black_panther",
+            "path": "Assets/Signs/black_panther.anim"
+        },
+        {
+            "key": "black_people_other",
+            "path": "Assets/Signs/black_people_other.anim"
+        },
+        {
+            "key": "black_pepper",
+            "path": "Assets/Signs/black_pepper.anim"
+        },
+        {
+            "key": "black_person",
+            "path": "Assets/Signs/black_person.anim"
+        },
+        {
+            "key": "blackboard",
+            "path": "Assets/Signs/blackboard.anim"
+        },
+        {
+            "key": "blacklist",
+            "path": "Assets/Signs/blacklist.anim"
+        },
+        {
+            "key": "blade",
+            "path": "Assets/Signs/blade.anim"
+        },
+        {
+            "key": "blame",
+            "path": "Assets/Signs/blame.anim"
+        },
+        {
+            "key": "blame_me",
+            "path": "Assets/Signs/blame_me.anim"
+        },
+        {
+            "key": "blame_variant",
+            "path": "Assets/Signs/blame_variant.anim"
+        },
+        {
+            "key": "bland",
+            "path": "Assets/Signs/bland.anim"
+        },
+        {
+            "key": "blank",
+            "path": "Assets/Signs/blank.anim"
+        },
+        {
+            "key": "blank_2_handed",
+            "path": "Assets/Signs/blank_2_handed.anim"
+        },
+        {
+            "key": "blanket",
+            "path": "Assets/Signs/blanket.anim"
+        },
+        {
+            "key": "blankminded",
+            "path": "Assets/Signs/blankminded.anim"
+        },
+        {
+            "key": "blasphemy",
+            "path": "Assets/Signs/blasphemy.anim"
+        },
+        {
+            "key": "blast",
+            "path": "Assets/Signs/blast.anim"
+        },
+        {
+            "key": "blatant",
+            "path": "Assets/Signs/blatant.anim"
+        },
+        {
+            "key": "blaze",
+            "path": "Assets/Signs/blaze.anim"
+        },
+        {
+            "key": "bleed",
+            "path": "Assets/Signs/bleed.anim"
+        },
+        {
+            "key": "bleed_extended",
+            "path": "Assets/Signs/bleed_extended.anim"
+        },
+        {
+            "key": "blemish",
+            "path": "Assets/Signs/blemish.anim"
+        },
+        {
+            "key": "blend",
+            "path": "Assets/Signs/blend.anim"
+        },
+        {
+            "key": "blender",
+            "path": "Assets/Signs/blender.anim"
+        },
+        {
+            "key": "blender_2_handed",
+            "path": "Assets/Signs/blender_2_handed.anim"
+        },
+        {
+            "key": "blender_cooking",
+            "path": "Assets/Signs/blender_cooking.anim"
+        },
+        {
+            "key": "bless",
+            "path": "Assets/Signs/bless.anim"
+        },
+        {
+            "key": "bless_extended",
+            "path": "Assets/Signs/bless_extended.anim"
+        },
+        {
+            "key": "blessing",
+            "path": "Assets/Signs/blessing.anim"
+        },
+        {
+            "key": "blind",
+            "path": "Assets/Signs/blind.anim"
+        },
+        {
+            "key": "blind_variant",
+            "path": "Assets/Signs/blind_variant.anim"
+        },
+        {
+            "key": "blindfold",
+            "path": "Assets/Signs/blindfold.anim"
+        },
+        {
+            "key": "blinds_vertical",
+            "path": "Assets/Signs/blinds_vertical.anim"
+        },
+        {
+            "key": "blink",
+            "path": "Assets/Signs/blink.anim"
+        },
+        {
+            "key": "blink_2_handed",
+            "path": "Assets/Signs/blink_2_handed.anim"
+        },
+        {
+            "key": "blister",
+            "path": "Assets/Signs/blister.anim"
+        },
+        {
+            "key": "blizzard",
+            "path": "Assets/Signs/blizzard.anim"
+        },
+        {
+            "key": "blizzard_variant",
+            "path": "Assets/Signs/blizzard_variant.anim"
+        },
+        {
+            "key": "blm",
+            "path": "Assets/Signs/blm.anim"
+        },
+        {
+            "key": "bloat",
+            "path": "Assets/Signs/bloat.anim"
+        },
+        {
+            "key": "block_defensive",
+            "path": "Assets/Signs/block_defensive.anim"
+        },
+        {
+            "key": "block_prevent",
+            "path": "Assets/Signs/block_prevent.anim"
+        },
+        {
+            "key": "blockade",
+            "path": "Assets/Signs/blockade.anim"
+        },
+        {
+            "key": "blonde",
+            "path": "Assets/Signs/blonde.anim"
+        },
+        {
+            "key": "blood_draw",
+            "path": "Assets/Signs/blood_draw.anim"
+        },
+        {
+            "key": "blood_pressure",
+            "path": "Assets/Signs/blood_pressure.anim"
+        },
+        {
+            "key": "blood_sugar",
+            "path": "Assets/Signs/blood_sugar.anim"
+        },
+        {
+            "key": "bloodbath",
+            "path": "Assets/Signs/bloodbath.anim"
+        },
+        {
+            "key": "bloodline",
+            "path": "Assets/Signs/bloodline.anim"
+        },
+        {
+            "key": "bloom",
+            "path": "Assets/Signs/bloom.anim"
+        },
+        {
+            "key": "bloom_extended",
+            "path": "Assets/Signs/bloom_extended.anim"
+        },
+        {
+            "key": "blossom",
+            "path": "Assets/Signs/blossom.anim"
+        },
+        {
+            "key": "blouse",
+            "path": "Assets/Signs/blouse.anim"
+        },
+        {
+            "key": "blow_breath",
+            "path": "Assets/Signs/blow_breath.anim"
+        },
+        {
+            "key": "blow_dry",
+            "path": "Assets/Signs/blow_dry.anim"
+        },
+        {
+            "key": "blow_it",
+            "path": "Assets/Signs/blow_it.anim"
+        },
+        {
+            "key": "blow_off",
+            "path": "Assets/Signs/blow_off.anim"
+        },
+        {
+            "key": "blow_up",
+            "path": "Assets/Signs/blow_up.anim"
+        },
+        {
+            "key": "blow_up_balloon",
+            "path": "Assets/Signs/blow_up_balloon.anim"
+        },
+        {
+            "key": "blow_up_explosion",
+            "path": "Assets/Signs/blow_up_explosion.anim"
+        },
+        {
+            "key": "blue_collar",
+            "path": "Assets/Signs/blue_collar.anim"
+        },
+        {
+            "key": "blue_color",
+            "path": "Assets/Signs/blue_color.anim"
+        },
+        {
+            "key": "blue_color_deep",
+            "path": "Assets/Signs/blue_color_deep.anim"
+        },
+        {
+            "key": "blue_color_light",
+            "path": "Assets/Signs/blue_color_light.anim"
+        },
+        {
+            "key": "blue_sad",
+            "path": "Assets/Signs/blue_sad.anim"
+        },
+        {
+            "key": "blueberry",
+            "path": "Assets/Signs/blueberry.anim"
+        },
+        {
+            "key": "blueprint",
+            "path": "Assets/Signs/blueprint.anim"
+        },
+        {
+            "key": "bluff",
+            "path": "Assets/Signs/bluff.anim"
+        },
+        {
+            "key": "blunder",
+            "path": "Assets/Signs/blunder.anim"
+        },
+        {
+            "key": "blunder_extended",
+            "path": "Assets/Signs/blunder_extended.anim"
+        },
+        {
+            "key": "blunt",
+            "path": "Assets/Signs/blunt.anim"
+        },
+        {
+            "key": "blur",
+            "path": "Assets/Signs/blur.anim"
+        },
+        {
+            "key": "blush",
+            "path": "Assets/Signs/blush.anim"
+        },
+        {
+            "key": "bluster",
+            "path": "Assets/Signs/bluster.anim"
+        },
+        {
+            "key": "blustery",
+            "path": "Assets/Signs/blustery.anim"
+        },
+        {
+            "key": "board_commitee",
+            "path": "Assets/Signs/board_commitee.anim"
+        },
+        {
+            "key": "board_directors",
+            "path": "Assets/Signs/board_directors.anim"
+        },
+        {
+            "key": "board_plank",
+            "path": "Assets/Signs/board_plank.anim"
+        },
+        {
+            "key": "board_room",
+            "path": "Assets/Signs/board_room.anim"
+        },
+        {
+            "key": "board_trustee",
+            "path": "Assets/Signs/board_trustee.anim"
+        },
+        {
+            "key": "boardgame",
+            "path": "Assets/Signs/boardgame.anim"
+        },
+        {
+            "key": "boardgame_variant",
+            "path": "Assets/Signs/boardgame_variant.anim"
+        },
+        {
+            "key": "boast",
+            "path": "Assets/Signs/boast.anim"
+        },
+        {
+            "key": "boat",
+            "path": "Assets/Signs/boat.anim"
+        },
+        {
+            "key": "boat_extended",
+            "path": "Assets/Signs/boat_extended.anim"
+        },
+        {
+            "key": "body",
+            "path": "Assets/Signs/body.anim"
+        },
+        {
+            "key": "body_language",
+            "path": "Assets/Signs/body_language.anim"
+        },
+        {
+            "key": "bog",
+            "path": "Assets/Signs/bog.anim"
+        },
+        {
+            "key": "bogus",
+            "path": "Assets/Signs/bogus.anim"
+        },
+        {
+            "key": "boil",
+            "path": "Assets/Signs/boil.anim"
+        },
+        {
+            "key": "bold",
+            "path": "Assets/Signs/bold.anim"
+        },
+        {
+            "key": "bolivia",
+            "path": "Assets/Signs/bolivia.anim"
+        },
+        {
+            "key": "bolo_tie",
+            "path": "Assets/Signs/bolo_tie.anim"
+        },
+        {
+            "key": "bolt_lightning",
+            "path": "Assets/Signs/bolt_lightning.anim"
+        },
+        {
+            "key": "bolt_metal",
+            "path": "Assets/Signs/bolt_metal.anim"
+        },
+        {
+            "key": "bolt_run",
+            "path": "Assets/Signs/bolt_run.anim"
+        },
+        {
+            "key": "bomb",
+            "path": "Assets/Signs/bomb.anim"
+        },
+        {
+            "key": "bombard",
+            "path": "Assets/Signs/bombard.anim"
+        },
+        {
+            "key": "bomber",
+            "path": "Assets/Signs/bomber.anim"
+        },
+        {
+            "key": "bond",
+            "path": "Assets/Signs/bond.anim"
+        },
+        {
+            "key": "bond_other",
+            "path": "Assets/Signs/bond_other.anim"
+        },
+        {
+            "key": "bond_variant",
+            "path": "Assets/Signs/bond_variant.anim"
+        },
+        {
+            "key": "bondage",
+            "path": "Assets/Signs/bondage.anim"
+        },
+        {
+            "key": "bone",
+            "path": "Assets/Signs/bone.anim"
+        },
+        {
+            "key": "bonfire",
+            "path": "Assets/Signs/bonfire.anim"
+        },
+        {
+            "key": "bongos",
+            "path": "Assets/Signs/bongos.anim"
+        },
+        {
+            "key": "boo",
+            "path": "Assets/Signs/boo.anim"
+        },
+        {
+            "key": "book",
+            "path": "Assets/Signs/book.anim"
+        },
+        {
+            "key": "book_extended",
+            "path": "Assets/Signs/book_extended.anim"
+        },
+        {
+            "key": "bookcase",
+            "path": "Assets/Signs/bookcase.anim"
+        },
+        {
+            "key": "bookcover",
+            "path": "Assets/Signs/bookcover.anim"
+        },
+        {
+            "key": "bookish",
+            "path": "Assets/Signs/bookish.anim"
+        },
+        {
+            "key": "bookkeeping",
+            "path": "Assets/Signs/bookkeeping.anim"
+        },
+        {
+            "key": "booklet",
+            "path": "Assets/Signs/booklet.anim"
+        },
+        {
+            "key": "bookmark",
+            "path": "Assets/Signs/bookmark.anim"
+        },
+        {
+            "key": "bookshelves",
+            "path": "Assets/Signs/bookshelves.anim"
+        },
+        {
+            "key": "bookstore",
+            "path": "Assets/Signs/bookstore.anim"
+        },
+        {
+            "key": "boom",
+            "path": "Assets/Signs/boom.anim"
+        },
+        {
+            "key": "boom_town",
+            "path": "Assets/Signs/boom_town.anim"
+        },
+        {
+            "key": "booming",
+            "path": "Assets/Signs/booming.anim"
+        },
+        {
+            "key": "boost",
+            "path": "Assets/Signs/boost.anim"
+        },
+        {
+            "key": "boost_up",
+            "path": "Assets/Signs/boost_up.anim"
+        },
+        {
+            "key": "boost_variant",
+            "path": "Assets/Signs/boost_variant.anim"
+        },
+        {
+            "key": "boots",
+            "path": "Assets/Signs/boots.anim"
+        },
+        {
+            "key": "booze",
+            "path": "Assets/Signs/booze.anim"
+        },
+        {
+            "key": "border",
+            "path": "Assets/Signs/border.anim"
+        },
+        {
+            "key": "bore",
+            "path": "Assets/Signs/bore.anim"
+        },
+        {
+            "key": "bore_another",
+            "path": "Assets/Signs/bore_another.anim"
+        },
+        {
+            "key": "bore_other",
+            "path": "Assets/Signs/bore_other.anim"
+        },
+        {
+            "key": "bore_variant",
+            "path": "Assets/Signs/bore_variant.anim"
+        },
+        {
+            "key": "born",
+            "path": "Assets/Signs/born.anim"
+        },
+        {
+            "key": "born_again",
+            "path": "Assets/Signs/born_again.anim"
+        },
+        {
+            "key": "born_again_christian",
+            "path": "Assets/Signs/born_again_christian.anim"
+        },
+        {
+            "key": "borrow_from_me",
+            "path": "Assets/Signs/borrow_from_me.anim"
+        },
+        {
+            "key": "borrow_from_someone",
+            "path": "Assets/Signs/borrow_from_someone.anim"
+        },
+        {
+            "key": "boss_combined",
+            "path": "Assets/Signs/boss_combined.anim"
+        },
+        {
+            "key": "boss_variant",
+            "path": "Assets/Signs/boss_variant.anim"
+        },
+        {
+            "key": "bossy",
+            "path": "Assets/Signs/bossy.anim"
+        },
+        {
+            "key": "boston",
+            "path": "Assets/Signs/boston.anim"
+        },
+        {
+            "key": "both",
+            "path": "Assets/Signs/both.anim"
+        },
+        {
+            "key": "both_of_us",
+            "path": "Assets/Signs/both_of_us.anim"
+        },
+        {
+            "key": "both_of_us_variant",
+            "path": "Assets/Signs/both_of_us_variant.anim"
+        },
+        {
+            "key": "bother",
+            "path": "Assets/Signs/bother.anim"
+        },
+        {
+            "key": "bother_someone",
+            "path": "Assets/Signs/bother_someone.anim"
+        },
+        {
+            "key": "bother_someone_extended",
+            "path": "Assets/Signs/bother_someone_extended.anim"
+        },
+        {
+            "key": "bottle",
+            "path": "Assets/Signs/bottle.anim"
+        },
+        {
+            "key": "bottom_below",
+            "path": "Assets/Signs/bottom_below.anim"
+        },
+        {
+            "key": "bottom_butt",
+            "path": "Assets/Signs/bottom_butt.anim"
+        },
+        {
+            "key": "boulder",
+            "path": "Assets/Signs/boulder.anim"
+        },
+        {
+            "key": "bounce_email",
+            "path": "Assets/Signs/bounce_email.anim"
+        },
+        {
+            "key": "boundary",
+            "path": "Assets/Signs/boundary.anim"
+        },
+        {
+            "key": "boundary_line",
+            "path": "Assets/Signs/boundary_line.anim"
+        },
+        {
+            "key": "bow_archery",
+            "path": "Assets/Signs/bow_archery.anim"
+        },
+        {
+            "key": "bow_salute",
+            "path": "Assets/Signs/bow_salute.anim"
+        },
+        {
+            "key": "bow_salute_down",
+            "path": "Assets/Signs/bow_salute_down.anim"
+        },
+        {
+            "key": "bow_salute_down_extended",
+            "path": "Assets/Signs/bow_salute_down_extended.anim"
+        },
+        {
+            "key": "bow_salute_extended",
+            "path": "Assets/Signs/bow_salute_extended.anim"
+        },
+        {
+            "key": "bowl",
+            "path": "Assets/Signs/bowl.anim"
+        },
+        {
+            "key": "bowling",
+            "path": "Assets/Signs/bowling.anim"
+        },
+        {
+            "key": "bowtie",
+            "path": "Assets/Signs/bowtie.anim"
+        },
+        {
+            "key": "box",
+            "path": "Assets/Signs/box.anim"
+        },
+        {
+            "key": "boxing",
+            "path": "Assets/Signs/boxing.anim"
+        },
+        {
+            "key": "boxing_glove",
+            "path": "Assets/Signs/boxing_glove.anim"
+        },
+        {
+            "key": "boycott",
+            "path": "Assets/Signs/boycott.anim"
+        },
+        {
+            "key": "boyfriend",
+            "path": "Assets/Signs/boyfriend.anim"
+        },
+        {
+            "key": "boyscout",
+            "path": "Assets/Signs/boyscout.anim"
+        },
+        {
+            "key": "bp",
+            "path": "Assets/Signs/bp.anim"
+        },
+        {
+            "key": "bra",
+            "path": "Assets/Signs/bra.anim"
+        },
+        {
+            "key": "brace_yourself",
+            "path": "Assets/Signs/brace_yourself.anim"
+        },
+        {
+            "key": "bracelet",
+            "path": "Assets/Signs/bracelet.anim"
+        },
+        {
+            "key": "braces",
+            "path": "Assets/Signs/braces.anim"
+        },
+        {
+            "key": "brag",
+            "path": "Assets/Signs/brag.anim"
+        },
+        {
+            "key": "braggart",
+            "path": "Assets/Signs/braggart.anim"
+        },
+        {
+            "key": "braid",
+            "path": "Assets/Signs/braid.anim"
+        },
+        {
+            "key": "braid_hairstyle",
+            "path": "Assets/Signs/braid_hairstyle.anim"
+        },
+        {
+            "key": "braid_hairstyle_2_handed",
+            "path": "Assets/Signs/braid_hairstyle_2_handed.anim"
+        },
+        {
+            "key": "braid_hairstyle_back",
+            "path": "Assets/Signs/braid_hairstyle_back.anim"
+        },
+        {
+            "key": "braille",
+            "path": "Assets/Signs/braille.anim"
+        },
+        {
+            "key": "brain",
+            "path": "Assets/Signs/brain.anim"
+        },
+        {
+            "key": "brainless",
+            "path": "Assets/Signs/brainless.anim"
+        },
+        {
+            "key": "brainstorm",
+            "path": "Assets/Signs/brainstorm.anim"
+        },
+        {
+            "key": "brainwash",
+            "path": "Assets/Signs/brainwash.anim"
+        },
+        {
+            "key": "brake",
+            "path": "Assets/Signs/brake.anim"
+        },
+        {
+            "key": "brampton",
+            "path": "Assets/Signs/brampton.anim"
+        },
+        {
+            "key": "branch",
+            "path": "Assets/Signs/branch.anim"
+        },
+        {
+            "key": "branch_path",
+            "path": "Assets/Signs/branch_path.anim"
+        },
+        {
+            "key": "brand",
+            "path": "Assets/Signs/brand.anim"
+        },
+        {
+            "key": "brand_new",
+            "path": "Assets/Signs/brand_new.anim"
+        },
+        {
+            "key": "brat",
+            "path": "Assets/Signs/brat.anim"
+        },
+        {
+            "key": "bratislava",
+            "path": "Assets/Signs/bratislava.anim"
+        },
+        {
+            "key": "brave",
+            "path": "Assets/Signs/brave.anim"
+        },
+        {
+            "key": "brawl",
+            "path": "Assets/Signs/brawl.anim"
+        },
+        {
+            "key": "brazil",
+            "path": "Assets/Signs/brazil.anim"
+        },
+        {
+            "key": "breach",
+            "path": "Assets/Signs/breach.anim"
+        },
+        {
+            "key": "breach_variant",
+            "path": "Assets/Signs/breach_variant.anim"
+        },
+        {
+            "key": "break",
+            "path": "Assets/Signs/break.anim"
+        },
+        {
+            "key": "break_pause",
+            "path": "Assets/Signs/break_pause.anim"
+        },
+        {
+            "key": "breakdown",
+            "path": "Assets/Signs/breakdown.anim"
+        },
+        {
+            "key": "breakdown_mental",
+            "path": "Assets/Signs/breakdown_mental.anim"
+        },
+        {
+            "key": "breakfast",
+            "path": "Assets/Signs/breakfast.anim"
+        },
+        {
+            "key": "breakfast_time",
+            "path": "Assets/Signs/breakfast_time.anim"
+        },
+        {
+            "key": "breaking_in",
+            "path": "Assets/Signs/breaking_in.anim"
+        },
+        {
+            "key": "breakout",
+            "path": "Assets/Signs/breakout.anim"
+        },
+        {
+            "key": "breakup",
+            "path": "Assets/Signs/breakup.anim"
+        },
+        {
+            "key": "breast",
+            "path": "Assets/Signs/breast.anim"
+        },
+        {
+            "key": "breast_feed",
+            "path": "Assets/Signs/breast_feed.anim"
+        },
+        {
+            "key": "breastmilk",
+            "path": "Assets/Signs/breastmilk.anim"
+        },
+        {
+            "key": "breaststroke",
+            "path": "Assets/Signs/breaststroke.anim"
+        },
+        {
+            "key": "breathe",
+            "path": "Assets/Signs/breathe.anim"
+        },
+        {
+            "key": "breathe_deep",
+            "path": "Assets/Signs/breathe_deep.anim"
+        },
+        {
+            "key": "breeze",
+            "path": "Assets/Signs/breeze.anim"
+        },
+        {
+            "key": "breezy",
+            "path": "Assets/Signs/breezy.anim"
+        },
+        {
+            "key": "bribe",
+            "path": "Assets/Signs/bribe.anim"
+        },
+        {
+            "key": "brick",
+            "path": "Assets/Signs/brick.anim"
+        },
+        {
+            "key": "bridge",
+            "path": "Assets/Signs/bridge.anim"
+        },
+        {
+            "key": "brief",
+            "path": "Assets/Signs/brief.anim"
+        },
+        {
+            "key": "briefcase",
+            "path": "Assets/Signs/briefcase.anim"
+        },
+        {
+            "key": "bright",
+            "path": "Assets/Signs/bright.anim"
+        },
+        {
+            "key": "bright_smart",
+            "path": "Assets/Signs/bright_smart.anim"
+        },
+        {
+            "key": "brimful",
+            "path": "Assets/Signs/brimful.anim"
+        },
+        {
+            "key": "bring",
+            "path": "Assets/Signs/bring.anim"
+        },
+        {
+            "key": "bring_here",
+            "path": "Assets/Signs/bring_here.anim"
+        },
+        {
+            "key": "bring_somewhere",
+            "path": "Assets/Signs/bring_somewhere.anim"
+        },
+        {
+            "key": "bring_to_me",
+            "path": "Assets/Signs/bring_to_me.anim"
+        },
+        {
+            "key": "brink",
+            "path": "Assets/Signs/brink.anim"
+        },
+        {
+            "key": "britain",
+            "path": "Assets/Signs/britain.anim"
+        },
+        {
+            "key": "british_columbia",
+            "path": "Assets/Signs/british_columbia.anim"
+        },
+        {
+            "key": "bro",
+            "path": "Assets/Signs/bro.anim"
+        },
+        {
+            "key": "broad",
+            "path": "Assets/Signs/broad.anim"
+        },
+        {
+            "key": "broadminded",
+            "path": "Assets/Signs/broadminded.anim"
+        },
+        {
+            "key": "broke_money",
+            "path": "Assets/Signs/broke_money.anim"
+        },
+        {
+            "key": "broke_object",
+            "path": "Assets/Signs/broke_object.anim"
+        },
+        {
+            "key": "brooch",
+            "path": "Assets/Signs/brooch.anim"
+        },
+        {
+            "key": "brood",
+            "path": "Assets/Signs/brood.anim"
+        },
+        {
+            "key": "brook",
+            "path": "Assets/Signs/brook.anim"
+        },
+        {
+            "key": "broom",
+            "path": "Assets/Signs/broom.anim"
+        },
+        {
+            "key": "brother",
+            "path": "Assets/Signs/brother.anim"
+        },
+        {
+            "key": "brother_catholic",
+            "path": "Assets/Signs/brother_catholic.anim"
+        },
+        {
+            "key": "brother_in_law",
+            "path": "Assets/Signs/brother_in_law.anim"
+        },
+        {
+            "key": "brow_liner",
+            "path": "Assets/Signs/brow_liner.anim"
+        },
+        {
+            "key": "brown",
+            "path": "Assets/Signs/brown.anim"
+        },
+        {
+            "key": "brown_hair",
+            "path": "Assets/Signs/brown_hair.anim"
+        },
+        {
+            "key": "brown_sugar",
+            "path": "Assets/Signs/brown_sugar.anim"
+        },
+        {
+            "key": "brownnose",
+            "path": "Assets/Signs/brownnose.anim"
+        },
+        {
+            "key": "browse",
+            "path": "Assets/Signs/browse.anim"
+        },
+        {
+            "key": "browse_look_around",
+            "path": "Assets/Signs/browse_look_around.anim"
+        },
+        {
+            "key": "browse_website",
+            "path": "Assets/Signs/browse_website.anim"
+        },
+        {
+            "key": "browser",
+            "path": "Assets/Signs/browser.anim"
+        },
+        {
+            "key": "browsing",
+            "path": "Assets/Signs/browsing.anim"
+        },
+        {
+            "key": "bucket",
+            "path": "Assets/Signs/bucket.anim"
+        },
+        {
+            "key": "bucket_combined",
+            "path": "Assets/Signs/bucket_combined.anim"
+        },
+        {
+            "key": "buckle_up",
+            "path": "Assets/Signs/buckle_up.anim"
+        },
+        {
+            "key": "buddha",
+            "path": "Assets/Signs/buddha.anim"
+        },
+        {
+            "key": "buddhism",
+            "path": "Assets/Signs/buddhism.anim"
+        },
+        {
+            "key": "buddhist",
+            "path": "Assets/Signs/buddhist.anim"
+        },
+        {
+            "key": "buddy",
+            "path": "Assets/Signs/buddy.anim"
+        },
+        {
+            "key": "budget",
+            "path": "Assets/Signs/budget.anim"
+        },
+        {
+            "key": "bullet_train",
+            "path": "Assets/Signs/bullet_train.anim"
+        },
+        {
+            "key": "bullseye",
+            "path": "Assets/Signs/bullseye.anim"
+        },
+        {
+            "key": "bullshit",
+            "path": "Assets/Signs/bullshit.anim"
+        },
+        {
+            "key": "bully",
+            "path": "Assets/Signs/bully.anim"
+        },
+        {
+            "key": "bully_variant",
+            "path": "Assets/Signs/bully_variant.anim"
+        },
+        {
+            "key": "bum",
+            "path": "Assets/Signs/bum.anim"
+        },
+        {
+            "key": "bum_clothes",
+            "path": "Assets/Signs/bum_clothes.anim"
+        },
+        {
+            "key": "bumble",
+            "path": "Assets/Signs/bumble.anim"
+        },
+        {
+            "key": "bump",
+            "path": "Assets/Signs/bump.anim"
+        },
+        {
+            "key": "bump_collision",
+            "path": "Assets/Signs/bump_collision.anim"
+        },
+        {
+            "key": "bump_fist",
+            "path": "Assets/Signs/bump_fist.anim"
+        },
+        {
+            "key": "bump_in_the_road",
+            "path": "Assets/Signs/bump_in_the_road.anim"
+        },
+        {
+            "key": "bump_into_another_person",
+            "path": "Assets/Signs/bump_into_another_person.anim"
+        },
+        {
+            "key": "bump_volley_ball",
+            "path": "Assets/Signs/bump_volley_ball.anim"
+        },
+        {
+            "key": "bumpy",
+            "path": "Assets/Signs/bumpy.anim"
+        },
+        {
+            "key": "bunch",
+            "path": "Assets/Signs/bunch.anim"
+        },
+        {
+            "key": "bunkbed",
+            "path": "Assets/Signs/bunkbed.anim"
+        },
+        {
+            "key": "bunny",
+            "path": "Assets/Signs/bunny.anim"
+        },
+        {
+            "key": "bunny_2_handed",
+            "path": "Assets/Signs/bunny_2_handed.anim"
+        },
+        {
+            "key": "bunt",
+            "path": "Assets/Signs/bunt.anim"
+        },
+        {
+            "key": "burger",
+            "path": "Assets/Signs/burger.anim"
+        },
+        {
+            "key": "burgular_other",
+            "path": "Assets/Signs/burgular_other.anim"
+        },
+        {
+            "key": "burgundy",
+            "path": "Assets/Signs/burgundy.anim"
+        },
+        {
+            "key": "burka",
+            "path": "Assets/Signs/burka.anim"
+        },
+        {
+            "key": "burkina_faso",
+            "path": "Assets/Signs/burkina_faso.anim"
+        },
+        {
+            "key": "burlington",
+            "path": "Assets/Signs/burlington.anim"
+        },
+        {
+            "key": "burly",
+            "path": "Assets/Signs/burly.anim"
+        },
+        {
+            "key": "burn",
+            "path": "Assets/Signs/burn.anim"
+        },
+        {
+            "key": "burn_down",
+            "path": "Assets/Signs/burn_down.anim"
+        },
+        {
+            "key": "burn_out",
+            "path": "Assets/Signs/burn_out.anim"
+        },
+        {
+            "key": "burn_up",
+            "path": "Assets/Signs/burn_up.anim"
+        },
+        {
+            "key": "burnaby",
+            "path": "Assets/Signs/burnaby.anim"
+        },
+        {
+            "key": "burp",
+            "path": "Assets/Signs/burp.anim"
+        },
+        {
+            "key": "burpee",
+            "path": "Assets/Signs/burpee.anim"
+        },
+        {
+            "key": "burst",
+            "path": "Assets/Signs/burst.anim"
+        },
+        {
+            "key": "burst_into_flames",
+            "path": "Assets/Signs/burst_into_flames.anim"
+        },
+        {
+            "key": "burundi",
+            "path": "Assets/Signs/burundi.anim"
+        },
+        {
+            "key": "bury",
+            "path": "Assets/Signs/bury.anim"
+        },
+        {
+            "key": "bury_variant",
+            "path": "Assets/Signs/bury_variant.anim"
+        },
+        {
+            "key": "bus",
+            "path": "Assets/Signs/bus.anim"
+        },
+        {
+            "key": "bus_fs",
+            "path": "Assets/Signs/bus_fs.anim"
+        },
+        {
+            "key": "bush",
+            "path": "Assets/Signs/bush.anim"
+        },
+        {
+            "key": "business",
+            "path": "Assets/Signs/business.anim"
+        },
+        {
+            "key": "business_card",
+            "path": "Assets/Signs/business_card.anim"
+        },
+        {
+            "key": "business_strategy",
+            "path": "Assets/Signs/business_strategy.anim"
+        },
+        {
+            "key": "bust_female",
+            "path": "Assets/Signs/bust_female.anim"
+        },
+        {
+            "key": "bust_male",
+            "path": "Assets/Signs/bust_male.anim"
+        },
+        {
+            "key": "bust_statue",
+            "path": "Assets/Signs/bust_statue.anim"
+        },
+        {
+            "key": "busy",
+            "path": "Assets/Signs/busy.anim"
+        },
+        {
+            "key": "but",
+            "path": "Assets/Signs/but.anim"
+        },
+        {
+            "key": "butter",
+            "path": "Assets/Signs/butter.anim"
+        },
+        {
+            "key": "butterfly",
+            "path": "Assets/Signs/butterfly.anim"
+        },
+        {
+            "key": "buttocks",
+            "path": "Assets/Signs/buttocks.anim"
+        },
+        {
+            "key": "button",
+            "path": "Assets/Signs/button.anim"
+        },
+        {
+            "key": "button_variant",
+            "path": "Assets/Signs/button_variant.anim"
+        },
+        {
+            "key": "buttons",
+            "path": "Assets/Signs/buttons.anim"
+        },
+        {
+            "key": "buy",
+            "path": "Assets/Signs/buy.anim"
+        },
+        {
+            "key": "buzzer",
+            "path": "Assets/Signs/buzzer.anim"
+        },
+        {
+            "key": "by_near",
+            "path": "Assets/Signs/by_near.anim"
+        },
+        {
+            "key": "by_oneself",
+            "path": "Assets/Signs/by_oneself.anim"
+        },
+        {
+            "key": "bye",
+            "path": "Assets/Signs/bye.anim"
+        },
+        {
+            "key": "bye_other",
+            "path": "Assets/Signs/bye_other.anim"
+        },
+        {
+            "key": "bye_other_variant",
+            "path": "Assets/Signs/bye_other_variant.anim"
+        },
+        {
+            "key": "bypass",
+            "path": "Assets/Signs/bypass.anim"
+        },
+        {
+            "key": "c_1",
+            "path": "Assets/Signs/c_1.anim"
+        },
+        {
+            "key": "cabinet",
+            "path": "Assets/Signs/cabinet.anim"
+        },
+        {
+            "key": "cactus",
+            "path": "Assets/Signs/cactus.anim"
+        },
+        {
+            "key": "caffeine",
+            "path": "Assets/Signs/caffeine.anim"
+        },
+        {
+            "key": "cakewalk",
+            "path": "Assets/Signs/cakewalk.anim"
+        },
+        {
+            "key": "calculator",
+            "path": "Assets/Signs/calculator.anim"
+        },
+        {
+            "key": "calculus",
+            "path": "Assets/Signs/calculus.anim"
+        },
+        {
+            "key": "calgary",
+            "path": "Assets/Signs/calgary.anim"
+        },
+        {
+            "key": "calibrate",
+            "path": "Assets/Signs/calibrate.anim"
+        },
+        {
+            "key": "california",
+            "path": "Assets/Signs/california.anim"
+        },
+        {
+            "key": "call_phone",
+            "path": "Assets/Signs/call_phone.anim"
+        },
+        {
+            "key": "calligraphy",
+            "path": "Assets/Signs/calligraphy.anim"
+        },
+        {
+            "key": "calm",
+            "path": "Assets/Signs/calm.anim"
+        },
+        {
+            "key": "cambodia",
+            "path": "Assets/Signs/cambodia.anim"
+        },
+        {
+            "key": "camcorder",
+            "path": "Assets/Signs/camcorder.anim"
+        },
+        {
+            "key": "camel",
+            "path": "Assets/Signs/camel.anim"
+        },
+        {
+            "key": "camera",
+            "path": "Assets/Signs/camera.anim"
+        },
+        {
+            "key": "camera_lens",
+            "path": "Assets/Signs/camera_lens.anim"
+        },
+        {
+            "key": "cameroon",
+            "path": "Assets/Signs/cameroon.anim"
+        },
+        {
+            "key": "camp",
+            "path": "Assets/Signs/camp.anim"
+        },
+        {
+            "key": "camper_rv",
+            "path": "Assets/Signs/camper_rv.anim"
+        },
+        {
+            "key": "campfire",
+            "path": "Assets/Signs/campfire.anim"
+        },
+        {
+            "key": "campground",
+            "path": "Assets/Signs/campground.anim"
+        },
+        {
+            "key": "camping",
+            "path": "Assets/Signs/camping.anim"
+        },
+        {
+            "key": "can_container",
+            "path": "Assets/Signs/can_container.anim"
+        },
+        {
+            "key": "can_container_big",
+            "path": "Assets/Signs/can_container_big.anim"
+        },
+        {
+            "key": "canada",
+            "path": "Assets/Signs/canada.anim"
+        },
+        {
+            "key": "car_accident",
+            "path": "Assets/Signs/car_accident.anim"
+        },
+        {
+            "key": "car_insurance",
+            "path": "Assets/Signs/car_insurance.anim"
+        },
+        {
+            "key": "car_racing",
+            "path": "Assets/Signs/car_racing.anim"
+        },
+        {
+            "key": "car_wash",
+            "path": "Assets/Signs/car_wash.anim"
+        },
+        {
+            "key": "carbon_dioxide",
+            "path": "Assets/Signs/carbon_dioxide.anim"
+        },
+        {
+            "key": "carefully",
+            "path": "Assets/Signs/carefully.anim"
+        },
+        {
+            "key": "caregiver",
+            "path": "Assets/Signs/caregiver.anim"
+        },
+        {
+            "key": "careless",
+            "path": "Assets/Signs/careless.anim"
+        },
+        {
+            "key": "carnival",
+            "path": "Assets/Signs/carnival.anim"
+        },
+        {
+            "key": "carriage",
+            "path": "Assets/Signs/carriage.anim"
+        },
+        {
+            "key": "carrot",
+            "path": "Assets/Signs/carrot.anim"
+        },
+        {
+            "key": "cartoon",
+            "path": "Assets/Signs/cartoon.anim"
+        },
+        {
+            "key": "cashier_ext",
+            "path": "Assets/Signs/cashier_ext.anim"
+        },
+        {
+            "key": "casino",
+            "path": "Assets/Signs/casino.anim"
+        },
+        {
+            "key": "cassette",
+            "path": "Assets/Signs/cassette.anim"
+        },
+        {
+            "key": "castoff",
+            "path": "Assets/Signs/castoff.anim"
+        },
+        {
+            "key": "caution",
+            "path": "Assets/Signs/caution.anim"
+        },
+        {
+            "key": "cautious",
+            "path": "Assets/Signs/cautious.anim"
+        },
+        {
+            "key": "cd",
+            "path": "Assets/Signs/cd.anim"
+        },
+        {
+            "key": "ceasefire",
+            "path": "Assets/Signs/ceasefire.anim"
+        },
+        {
+            "key": "ceiling",
+            "path": "Assets/Signs/ceiling.anim"
+        },
+        {
+            "key": "ceiling_2_handed",
+            "path": "Assets/Signs/ceiling_2_handed.anim"
+        },
+        {
+            "key": "ceiling_variant",
+            "path": "Assets/Signs/ceiling_variant.anim"
+        },
+        {
+            "key": "celcius",
+            "path": "Assets/Signs/celcius.anim"
+        },
+        {
+            "key": "celebrate",
+            "path": "Assets/Signs/celebrate.anim"
+        },
+        {
+            "key": "celebrate_deaf_applause",
+            "path": "Assets/Signs/celebrate_deaf_applause.anim"
+        },
+        {
+            "key": "celebrity",
+            "path": "Assets/Signs/celebrity.anim"
+        },
+        {
+            "key": "celestial",
+            "path": "Assets/Signs/celestial.anim"
+        },
+        {
+            "key": "celibate",
+            "path": "Assets/Signs/celibate.anim"
+        },
+        {
+            "key": "celsius",
+            "path": "Assets/Signs/celsius.anim"
+        },
+        {
+            "key": "cement",
+            "path": "Assets/Signs/cement.anim"
+        },
+        {
+            "key": "cementary",
+            "path": "Assets/Signs/cementary.anim"
+        },
+        {
+            "key": "censure",
+            "path": "Assets/Signs/censure.anim"
+        },
+        {
+            "key": "cent",
+            "path": "Assets/Signs/cent.anim"
+        },
+        {
+            "key": "chain_smoking",
+            "path": "Assets/Signs/chain_smoking.anim"
+        },
+        {
+            "key": "chair_furniture",
+            "path": "Assets/Signs/chair_furniture.anim"
+        },
+        {
+            "key": "chalk",
+            "path": "Assets/Signs/chalk.anim"
+        },
+        {
+            "key": "chalkboard",
+            "path": "Assets/Signs/chalkboard.anim"
+        },
+        {
+            "key": "chameleon",
+            "path": "Assets/Signs/chameleon.anim"
+        },
+        {
+            "key": "champagne",
+            "path": "Assets/Signs/champagne.anim"
+        },
+        {
+            "key": "champagne_ext",
+            "path": "Assets/Signs/champagne_ext.anim"
+        },
+        {
+            "key": "champion",
+            "path": "Assets/Signs/champion.anim"
+        },
+        {
+            "key": "champion_variant",
+            "path": "Assets/Signs/champion_variant.anim"
+        },
+        {
+            "key": "change_adapt",
+            "path": "Assets/Signs/change_adapt.anim"
+        },
+        {
+            "key": "change_adapt_variant",
+            "path": "Assets/Signs/change_adapt_variant.anim"
+        },
+        {
+            "key": "change_money",
+            "path": "Assets/Signs/change_money.anim"
+        },
+        {
+            "key": "change_no_change",
+            "path": "Assets/Signs/change_no_change.anim"
+        },
+        {
+            "key": "chant",
+            "path": "Assets/Signs/chant.anim"
+        },
+        {
+            "key": "chanukah",
+            "path": "Assets/Signs/chanukah.anim"
+        },
+        {
+            "key": "chaos",
+            "path": "Assets/Signs/chaos.anim"
+        },
+        {
+            "key": "chapel",
+            "path": "Assets/Signs/chapel.anim"
+        },
+        {
+            "key": "character_asian_letters",
+            "path": "Assets/Signs/character_asian_letters.anim"
+        },
+        {
+            "key": "character_play",
+            "path": "Assets/Signs/character_play.anim"
+        },
+        {
+            "key": "charge",
+            "path": "Assets/Signs/charge.anim"
+        },
+        {
+            "key": "charity_ext",
+            "path": "Assets/Signs/charity_ext.anim"
+        },
+        {
+            "key": "chart",
+            "path": "Assets/Signs/chart.anim"
+        },
+        {
+            "key": "chastise",
+            "path": "Assets/Signs/chastise.anim"
+        },
+        {
+            "key": "chat",
+            "path": "Assets/Signs/chat.anim"
+        },
+        {
+            "key": "chat_other",
+            "path": "Assets/Signs/chat_other.anim"
+        },
+        {
+            "key": "chatter",
+            "path": "Assets/Signs/chatter.anim"
+        },
+        {
+            "key": "chauffer",
+            "path": "Assets/Signs/chauffer.anim"
+        },
+        {
+            "key": "cheapskate",
+            "path": "Assets/Signs/cheapskate.anim"
+        },
+        {
+            "key": "cheat_other",
+            "path": "Assets/Signs/cheat_other.anim"
+        },
+        {
+            "key": "check",
+            "path": "Assets/Signs/check.anim"
+        },
+        {
+            "key": "check_off",
+            "path": "Assets/Signs/check_off.anim"
+        },
+        {
+            "key": "check_please",
+            "path": "Assets/Signs/check_please.anim"
+        },
+        {
+            "key": "checkers",
+            "path": "Assets/Signs/checkers.anim"
+        },
+        {
+            "key": "checkmark",
+            "path": "Assets/Signs/checkmark.anim"
+        },
+        {
+            "key": "checkout_counter",
+            "path": "Assets/Signs/checkout_counter.anim"
+        },
+        {
+            "key": "cheek",
+            "path": "Assets/Signs/cheek.anim"
+        },
+        {
+            "key": "cheerful",
+            "path": "Assets/Signs/cheerful.anim"
+        },
+        {
+            "key": "cheerleader",
+            "path": "Assets/Signs/cheerleader.anim"
+        },
+        {
+            "key": "cheeseburger",
+            "path": "Assets/Signs/cheeseburger.anim"
+        },
+        {
+            "key": "cheesecake",
+            "path": "Assets/Signs/cheesecake.anim"
+        },
+        {
+            "key": "cheetah",
+            "path": "Assets/Signs/cheetah.anim"
+        },
+        {
+            "key": "chef",
+            "path": "Assets/Signs/chef.anim"
+        },
+        {
+            "key": "chemical",
+            "path": "Assets/Signs/chemical.anim"
+        },
+        {
+            "key": "chemist",
+            "path": "Assets/Signs/chemist.anim"
+        },
+        {
+            "key": "chemistry",
+            "path": "Assets/Signs/chemistry.anim"
+        },
+        {
+            "key": "chemo",
+            "path": "Assets/Signs/chemo.anim"
+        },
+        {
+            "key": "cheque",
+            "path": "Assets/Signs/cheque.anim"
+        },
+        {
+            "key": "cherokee",
+            "path": "Assets/Signs/cherokee.anim"
+        },
+        {
+            "key": "cherry",
+            "path": "Assets/Signs/cherry.anim"
+        },
+        {
+            "key": "cherry_blossom",
+            "path": "Assets/Signs/cherry_blossom.anim"
+        },
+        {
+            "key": "chess",
+            "path": "Assets/Signs/chess.anim"
+        },
+        {
+            "key": "chest_drawer",
+            "path": "Assets/Signs/chest_drawer.anim"
+        },
+        {
+            "key": "chest_drawer_variant",
+            "path": "Assets/Signs/chest_drawer_variant.anim"
+        },
+        {
+            "key": "chicago",
+            "path": "Assets/Signs/chicago.anim"
+        },
+        {
+            "key": "chicken_wing",
+            "path": "Assets/Signs/chicken_wing.anim"
+        },
+        {
+            "key": "chide",
+            "path": "Assets/Signs/chide.anim"
+        },
+        {
+            "key": "chief",
+            "path": "Assets/Signs/chief.anim"
+        },
+        {
+            "key": "chihuahua",
+            "path": "Assets/Signs/chihuahua.anim"
+        },
+        {
+            "key": "child",
+            "path": "Assets/Signs/child.anim"
+        },
+        {
+            "key": "childbirth",
+            "path": "Assets/Signs/childbirth.anim"
+        },
+        {
+            "key": "childcare",
+            "path": "Assets/Signs/childcare.anim"
+        },
+        {
+            "key": "childless",
+            "path": "Assets/Signs/childless.anim"
+        },
+        {
+            "key": "chill",
+            "path": "Assets/Signs/chill.anim"
+        },
+        {
+            "key": "chimney",
+            "path": "Assets/Signs/chimney.anim"
+        },
+        {
+            "key": "china",
+            "path": "Assets/Signs/china.anim"
+        },
+        {
+            "key": "chinese_character",
+            "path": "Assets/Signs/chinese_character.anim"
+        },
+        {
+            "key": "chirp",
+            "path": "Assets/Signs/chirp.anim"
+        },
+        {
+            "key": "chivarlious",
+            "path": "Assets/Signs/chivarlious.anim"
+        },
+        {
+            "key": "chocolate",
+            "path": "Assets/Signs/chocolate.anim"
+        },
+        {
+            "key": "choice",
+            "path": "Assets/Signs/choice.anim"
+        },
+        {
+            "key": "choices",
+            "path": "Assets/Signs/choices.anim"
+        },
+        {
+            "key": "choir",
+            "path": "Assets/Signs/choir.anim"
+        },
+        {
+            "key": "choke",
+            "path": "Assets/Signs/choke.anim"
+        },
+        {
+            "key": "choker",
+            "path": "Assets/Signs/choker.anim"
+        },
+        {
+            "key": "choose_multi",
+            "path": "Assets/Signs/choose_multi.anim"
+        },
+        {
+            "key": "choose_them",
+            "path": "Assets/Signs/choose_them.anim"
+        },
+        {
+            "key": "chop",
+            "path": "Assets/Signs/chop.anim"
+        },
+        {
+            "key": "chopsticks",
+            "path": "Assets/Signs/chopsticks.anim"
+        },
+        {
+            "key": "chore",
+            "path": "Assets/Signs/chore.anim"
+        },
+        {
+            "key": "chorus",
+            "path": "Assets/Signs/chorus.anim"
+        },
+        {
+            "key": "christchurch",
+            "path": "Assets/Signs/christchurch.anim"
+        },
+        {
+            "key": "christen_var",
+            "path": "Assets/Signs/christen_var.anim"
+        },
+        {
+            "key": "christian",
+            "path": "Assets/Signs/christian.anim"
+        },
+        {
+            "key": "christmas",
+            "path": "Assets/Signs/christmas.anim"
+        },
+        {
+            "key": "christmas_lights",
+            "path": "Assets/Signs/christmas_lights.anim"
+        },
+        {
+            "key": "christmas_tree",
+            "path": "Assets/Signs/christmas_tree.anim"
+        },
+        {
+            "key": "chromosome",
+            "path": "Assets/Signs/chromosome.anim"
+        },
+        {
+            "key": "chronic",
+            "path": "Assets/Signs/chronic.anim"
+        },
+        {
+            "key": "chubby_body",
+            "path": "Assets/Signs/chubby_body.anim"
+        },
+        {
+            "key": "chubby_face",
+            "path": "Assets/Signs/chubby_face.anim"
+        },
+        {
+            "key": "chuckle",
+            "path": "Assets/Signs/chuckle.anim"
+        },
+        {
+            "key": "chug_drink",
+            "path": "Assets/Signs/chug_drink.anim"
+        },
+        {
+            "key": "chug_engine",
+            "path": "Assets/Signs/chug_engine.anim"
+        },
+        {
+            "key": "chum",
+            "path": "Assets/Signs/chum.anim"
+        },
+        {
+            "key": "church",
+            "path": "Assets/Signs/church.anim"
+        },
+        {
+            "key": "church_teaching",
+            "path": "Assets/Signs/church_teaching.anim"
+        },
+        {
+            "key": "cigar",
+            "path": "Assets/Signs/cigar.anim"
+        },
+        {
+            "key": "cigarette",
+            "path": "Assets/Signs/cigarette.anim"
+        },
+        {
+            "key": "cigarette_butt",
+            "path": "Assets/Signs/cigarette_butt.anim"
+        },
+        {
+            "key": "cinema",
+            "path": "Assets/Signs/cinema.anim"
+        },
+        {
+            "key": "circle",
+            "path": "Assets/Signs/circle.anim"
+        },
+        {
+            "key": "circulation",
+            "path": "Assets/Signs/circulation.anim"
+        },
+        {
+            "key": "circumference",
+            "path": "Assets/Signs/circumference.anim"
+        },
+        {
+            "key": "circumision",
+            "path": "Assets/Signs/circumision.anim"
+        },
+        {
+            "key": "circumstance",
+            "path": "Assets/Signs/circumstance.anim"
+        },
+        {
+            "key": "circumstance_no_control",
+            "path": "Assets/Signs/circumstance_no_control.anim"
+        },
+        {
+            "key": "circus",
+            "path": "Assets/Signs/circus.anim"
+        },
+        {
+            "key": "circus_ext",
+            "path": "Assets/Signs/circus_ext.anim"
+        },
+        {
+            "key": "citation",
+            "path": "Assets/Signs/citation.anim"
+        },
+        {
+            "key": "cite",
+            "path": "Assets/Signs/cite.anim"
+        },
+        {
+            "key": "city",
+            "path": "Assets/Signs/city.anim"
+        },
+        {
+            "key": "clack",
+            "path": "Assets/Signs/clack.anim"
+        },
+        {
+            "key": "claim",
+            "path": "Assets/Signs/claim.anim"
+        },
+        {
+            "key": "clam",
+            "path": "Assets/Signs/clam.anim"
+        },
+        {
+            "key": "clamp",
+            "path": "Assets/Signs/clamp.anim"
+        },
+        {
+            "key": "clandenstine",
+            "path": "Assets/Signs/clandenstine.anim"
+        },
+        {
+            "key": "clap",
+            "path": "Assets/Signs/clap.anim"
+        },
+        {
+            "key": "clap_deaf",
+            "path": "Assets/Signs/clap_deaf.anim"
+        },
+        {
+            "key": "clarify",
+            "path": "Assets/Signs/clarify.anim"
+        },
+        {
+            "key": "clarify_ext",
+            "path": "Assets/Signs/clarify_ext.anim"
+        },
+        {
+            "key": "clash",
+            "path": "Assets/Signs/clash.anim"
+        },
+        {
+            "key": "clasp",
+            "path": "Assets/Signs/clasp.anim"
+        },
+        {
+            "key": "clasp_device",
+            "path": "Assets/Signs/clasp_device.anim"
+        },
+        {
+            "key": "class",
+            "path": "Assets/Signs/class.anim"
+        },
+        {
+            "key": "classified",
+            "path": "Assets/Signs/classified.anim"
+        },
+        {
+            "key": "classifier",
+            "path": "Assets/Signs/classifier.anim"
+        },
+        {
+            "key": "classroom",
+            "path": "Assets/Signs/classroom.anim"
+        },
+        {
+            "key": "classy",
+            "path": "Assets/Signs/classy.anim"
+        },
+        {
+            "key": "claw_sea",
+            "path": "Assets/Signs/claw_sea.anim"
+        },
+        {
+            "key": "clean",
+            "path": "Assets/Signs/clean.anim"
+        },
+        {
+            "key": "clean_body",
+            "path": "Assets/Signs/clean_body.anim"
+        },
+        {
+            "key": "clean_counter",
+            "path": "Assets/Signs/clean_counter.anim"
+        },
+        {
+            "key": "clean_counter_2h",
+            "path": "Assets/Signs/clean_counter_2h.anim"
+        },
+        {
+            "key": "clean_dishes",
+            "path": "Assets/Signs/clean_dishes.anim"
+        },
+        {
+            "key": "clean_ext",
+            "path": "Assets/Signs/clean_ext.anim"
+        },
+        {
+            "key": "clean_face",
+            "path": "Assets/Signs/clean_face.anim"
+        },
+        {
+            "key": "clean_floor",
+            "path": "Assets/Signs/clean_floor.anim"
+        },
+        {
+            "key": "clean_hair",
+            "path": "Assets/Signs/clean_hair.anim"
+        },
+        {
+            "key": "clean_shaven",
+            "path": "Assets/Signs/clean_shaven.anim"
+        },
+        {
+            "key": "clean_up",
+            "path": "Assets/Signs/clean_up.anim"
+        },
+        {
+            "key": "clean_very",
+            "path": "Assets/Signs/clean_very.anim"
+        },
+        {
+            "key": "clean_wall",
+            "path": "Assets/Signs/clean_wall.anim"
+        },
+        {
+            "key": "clean_window",
+            "path": "Assets/Signs/clean_window.anim"
+        },
+        {
+            "key": "cleaner",
+            "path": "Assets/Signs/cleaner.anim"
+        },
+        {
+            "key": "clear",
+            "path": "Assets/Signs/clear.anim"
+        },
+        {
+            "key": "clench",
+            "path": "Assets/Signs/clench.anim"
+        },
+        {
+            "key": "clever",
+            "path": "Assets/Signs/clever.anim"
+        },
+        {
+            "key": "cliche",
+            "path": "Assets/Signs/cliche.anim"
+        },
+        {
+            "key": "click_multiple",
+            "path": "Assets/Signs/click_multiple.anim"
+        },
+        {
+            "key": "click_through",
+            "path": "Assets/Signs/click_through.anim"
+        },
+        {
+            "key": "clickbait",
+            "path": "Assets/Signs/clickbait.anim"
+        },
+        {
+            "key": "cliff",
+            "path": "Assets/Signs/cliff.anim"
+        },
+        {
+            "key": "close",
+            "path": "Assets/Signs/close.anim"
+        },
+        {
+            "key": "close_almost",
+            "path": "Assets/Signs/close_almost.anim"
+        },
+        {
+            "key": "close_book",
+            "path": "Assets/Signs/close_book.anim"
+        },
+        {
+            "key": "close_business",
+            "path": "Assets/Signs/close_business.anim"
+        },
+        {
+            "key": "close_door",
+            "path": "Assets/Signs/close_door.anim"
+        },
+        {
+            "key": "close_feeling",
+            "path": "Assets/Signs/close_feeling.anim"
+        },
+        {
+            "key": "close_friend",
+            "path": "Assets/Signs/close_friend.anim"
+        },
+        {
+            "key": "close_knit",
+            "path": "Assets/Signs/close_knit.anim"
+        },
+        {
+            "key": "close_minded",
+            "path": "Assets/Signs/close_minded.anim"
+        },
+        {
+            "key": "close_near",
+            "path": "Assets/Signs/close_near.anim"
+        },
+        {
+            "key": "close_near_ext",
+            "path": "Assets/Signs/close_near_ext.anim"
+        },
+        {
+            "key": "close_the_window",
+            "path": "Assets/Signs/close_the_window.anim"
+        },
+        {
+            "key": "close_zipper",
+            "path": "Assets/Signs/close_zipper.anim"
+        },
+        {
+            "key": "closed_captions",
+            "path": "Assets/Signs/closed_captions.anim"
+        },
+        {
+            "key": "closet",
+            "path": "Assets/Signs/closet.anim"
+        },
+        {
+            "key": "closet_ext",
+            "path": "Assets/Signs/closet_ext.anim"
+        },
+        {
+            "key": "cloth_face",
+            "path": "Assets/Signs/cloth_face.anim"
+        },
+        {
+            "key": "clothing",
+            "path": "Assets/Signs/clothing.anim"
+        },
+        {
+            "key": "cloud",
+            "path": "Assets/Signs/cloud.anim"
+        },
+        {
+            "key": "clown",
+            "path": "Assets/Signs/clown.anim"
+        },
+        {
+            "key": "club",
+            "path": "Assets/Signs/club.anim"
+        },
+        {
+            "key": "cluck",
+            "path": "Assets/Signs/cluck.anim"
+        },
+        {
+            "key": "clueless",
+            "path": "Assets/Signs/clueless.anim"
+        },
+        {
+            "key": "clueless_another",
+            "path": "Assets/Signs/clueless_another.anim"
+        },
+        {
+            "key": "clumsy",
+            "path": "Assets/Signs/clumsy.anim"
+        },
+        {
+            "key": "cluster",
+            "path": "Assets/Signs/cluster.anim"
+        },
+        {
+            "key": "clutch",
+            "path": "Assets/Signs/clutch.anim"
+        },
+        {
+            "key": "clutch_vehicle",
+            "path": "Assets/Signs/clutch_vehicle.anim"
+        },
+        {
+            "key": "clutter",
+            "path": "Assets/Signs/clutter.anim"
+        },
+        {
+            "key": "coach",
+            "path": "Assets/Signs/coach.anim"
+        },
+        {
+            "key": "coarse",
+            "path": "Assets/Signs/coarse.anim"
+        },
+        {
+            "key": "coarse_ext",
+            "path": "Assets/Signs/coarse_ext.anim"
+        },
+        {
+            "key": "coat",
+            "path": "Assets/Signs/coat.anim"
+        },
+        {
+            "key": "coax",
+            "path": "Assets/Signs/coax.anim"
+        },
+        {
+            "key": "coax_var",
+            "path": "Assets/Signs/coax_var.anim"
+        },
+        {
+            "key": "cobble_stone",
+            "path": "Assets/Signs/cobble_stone.anim"
+        },
+        {
+            "key": "cobra",
+            "path": "Assets/Signs/cobra.anim"
+        },
+        {
+            "key": "cobweb",
+            "path": "Assets/Signs/cobweb.anim"
+        },
+        {
+            "key": "cocaine",
+            "path": "Assets/Signs/cocaine.anim"
+        },
+        {
+            "key": "cochlear_implant",
+            "path": "Assets/Signs/cochlear_implant.anim"
+        },
+        {
+            "key": "cochlear_implant_var",
+            "path": "Assets/Signs/cochlear_implant_var.anim"
+        },
+        {
+            "key": "cock",
+            "path": "Assets/Signs/cock.anim"
+        },
+        {
+            "key": "cocktail",
+            "path": "Assets/Signs/cocktail.anim"
+        },
+        {
+            "key": "cocky",
+            "path": "Assets/Signs/cocky.anim"
+        },
+        {
+            "key": "cocoa",
+            "path": "Assets/Signs/cocoa.anim"
+        },
+        {
+            "key": "coconut",
+            "path": "Assets/Signs/coconut.anim"
+        },
+        {
+            "key": "code",
+            "path": "Assets/Signs/code.anim"
+        },
+        {
+            "key": "code_of_ethics",
+            "path": "Assets/Signs/code_of_ethics.anim"
+        },
+        {
+            "key": "coerce",
+            "path": "Assets/Signs/coerce.anim"
+        },
+        {
+            "key": "coffee",
+            "path": "Assets/Signs/coffee.anim"
+        },
+        {
+            "key": "cohort",
+            "path": "Assets/Signs/cohort.anim"
+        },
+        {
+            "key": "coil",
+            "path": "Assets/Signs/coil.anim"
+        },
+        {
+            "key": "coin",
+            "path": "Assets/Signs/coin.anim"
+        },
+        {
+            "key": "coin_toss",
+            "path": "Assets/Signs/coin_toss.anim"
+        },
+        {
+            "key": "coincidence",
+            "path": "Assets/Signs/coincidence.anim"
+        },
+        {
+            "key": "coincidence_ext",
+            "path": "Assets/Signs/coincidence_ext.anim"
+        },
+        {
+            "key": "coins",
+            "path": "Assets/Signs/coins.anim"
+        },
+        {
+            "key": "cold",
+            "path": "Assets/Signs/cold.anim"
+        },
+        {
+            "key": "cold_front",
+            "path": "Assets/Signs/cold_front.anim"
+        },
+        {
+            "key": "cold_shoulder",
+            "path": "Assets/Signs/cold_shoulder.anim"
+        },
+        {
+            "key": "cold_sore",
+            "path": "Assets/Signs/cold_sore.anim"
+        },
+        {
+            "key": "cold_virus",
+            "path": "Assets/Signs/cold_virus.anim"
+        },
+        {
+            "key": "collaborate",
+            "path": "Assets/Signs/collaborate.anim"
+        },
+        {
+            "key": "collapse",
+            "path": "Assets/Signs/collapse.anim"
+        },
+        {
+            "key": "collar",
+            "path": "Assets/Signs/collar.anim"
+        },
+        {
+            "key": "collar_shirt",
+            "path": "Assets/Signs/collar_shirt.anim"
+        },
+        {
+            "key": "collecting",
+            "path": "Assets/Signs/collecting.anim"
+        },
+        {
+            "key": "college",
+            "path": "Assets/Signs/college.anim"
+        },
+        {
+            "key": "collide",
+            "path": "Assets/Signs/collide.anim"
+        },
+        {
+            "key": "collide_car",
+            "path": "Assets/Signs/collide_car.anim"
+        },
+        {
+            "key": "collide_personal",
+            "path": "Assets/Signs/collide_personal.anim"
+        },
+        {
+            "key": "cologne",
+            "path": "Assets/Signs/cologne.anim"
+        },
+        {
+            "key": "colombia",
+            "path": "Assets/Signs/colombia.anim"
+        },
+        {
+            "key": "colon_anatomy",
+            "path": "Assets/Signs/colon_anatomy.anim"
+        },
+        {
+            "key": "colon_puncuation",
+            "path": "Assets/Signs/colon_puncuation.anim"
+        },
+        {
+            "key": "color",
+            "path": "Assets/Signs/color.anim"
+        },
+        {
+            "key": "color_wheel",
+            "path": "Assets/Signs/color_wheel.anim"
+        },
+        {
+            "key": "colorful",
+            "path": "Assets/Signs/colorful.anim"
+        },
+        {
+            "key": "colorful_2_h",
+            "path": "Assets/Signs/colorful_2_h.anim"
+        },
+        {
+            "key": "coloring_book",
+            "path": "Assets/Signs/coloring_book.anim"
+        },
+        {
+            "key": "come",
+            "path": "Assets/Signs/come.anim"
+        },
+        {
+            "key": "come_2_handed",
+            "path": "Assets/Signs/come_2_handed.anim"
+        },
+        {
+            "key": "come_2_handed_eng",
+            "path": "Assets/Signs/come_2_handed_eng.anim"
+        },
+        {
+            "key": "come_across_person",
+            "path": "Assets/Signs/come_across_person.anim"
+        },
+        {
+            "key": "come_before",
+            "path": "Assets/Signs/come_before.anim"
+        },
+        {
+            "key": "come_here",
+            "path": "Assets/Signs/come_here.anim"
+        },
+        {
+            "key": "come_hither",
+            "path": "Assets/Signs/come_hither.anim"
+        },
+        {
+            "key": "come_hither_full_hand",
+            "path": "Assets/Signs/come_hither_full_hand.anim"
+        },
+        {
+            "key": "come_over",
+            "path": "Assets/Signs/come_over.anim"
+        },
+        {
+            "key": "come_over_their_place",
+            "path": "Assets/Signs/come_over_their_place.anim"
+        },
+        {
+            "key": "come_together",
+            "path": "Assets/Signs/come_together.anim"
+        },
+        {
+            "key": "come_up",
+            "path": "Assets/Signs/come_up.anim"
+        },
+        {
+            "key": "come_up_to_me",
+            "path": "Assets/Signs/come_up_to_me.anim"
+        },
+        {
+            "key": "come_up_with",
+            "path": "Assets/Signs/come_up_with.anim"
+        },
+        {
+            "key": "comedian",
+            "path": "Assets/Signs/comedian.anim"
+        },
+        {
+            "key": "comedy",
+            "path": "Assets/Signs/comedy.anim"
+        },
+        {
+            "key": "comet",
+            "path": "Assets/Signs/comet.anim"
+        },
+        {
+            "key": "comma",
+            "path": "Assets/Signs/comma.anim"
+        },
+        {
+            "key": "command",
+            "path": "Assets/Signs/command.anim"
+        },
+        {
+            "key": "command_order",
+            "path": "Assets/Signs/command_order.anim"
+        },
+        {
+            "key": "command_person",
+            "path": "Assets/Signs/command_person.anim"
+        },
+        {
+            "key": "commandment",
+            "path": "Assets/Signs/commandment.anim"
+        },
+        {
+            "key": "commemorate",
+            "path": "Assets/Signs/commemorate.anim"
+        },
+        {
+            "key": "commence",
+            "path": "Assets/Signs/commence.anim"
+        },
+        {
+            "key": "commend",
+            "path": "Assets/Signs/commend.anim"
+        },
+        {
+            "key": "comments",
+            "path": "Assets/Signs/comments.anim"
+        },
+        {
+            "key": "commercial",
+            "path": "Assets/Signs/commercial.anim"
+        },
+        {
+            "key": "commit",
+            "path": "Assets/Signs/commit.anim"
+        },
+        {
+            "key": "common",
+            "path": "Assets/Signs/common.anim"
+        },
+        {
+            "key": "common_law",
+            "path": "Assets/Signs/common_law.anim"
+        },
+        {
+            "key": "common_sense",
+            "path": "Assets/Signs/common_sense.anim"
+        },
+        {
+            "key": "commotion_confusion",
+            "path": "Assets/Signs/commotion_confusion.anim"
+        },
+        {
+            "key": "communicate",
+            "path": "Assets/Signs/communicate.anim"
+        },
+        {
+            "key": "communion",
+            "path": "Assets/Signs/communion.anim"
+        },
+        {
+            "key": "communism",
+            "path": "Assets/Signs/communism.anim"
+        },
+        {
+            "key": "community",
+            "path": "Assets/Signs/community.anim"
+        },
+        {
+            "key": "compact",
+            "path": "Assets/Signs/compact.anim"
+        },
+        {
+            "key": "companion",
+            "path": "Assets/Signs/companion.anim"
+        },
+        {
+            "key": "company_business",
+            "path": "Assets/Signs/company_business.anim"
+        },
+        {
+            "key": "company_business_var",
+            "path": "Assets/Signs/company_business_var.anim"
+        },
+        {
+            "key": "compare",
+            "path": "Assets/Signs/compare.anim"
+        },
+        {
+            "key": "compare_var",
+            "path": "Assets/Signs/compare_var.anim"
+        },
+        {
+            "key": "compass_direction",
+            "path": "Assets/Signs/compass_direction.anim"
+        },
+        {
+            "key": "compass_drawing",
+            "path": "Assets/Signs/compass_drawing.anim"
+        },
+        {
+            "key": "compassion",
+            "path": "Assets/Signs/compassion.anim"
+        },
+        {
+            "key": "compassion_for_me",
+            "path": "Assets/Signs/compassion_for_me.anim"
+        },
+        {
+            "key": "compassion_for_me_2h",
+            "path": "Assets/Signs/compassion_for_me_2h.anim"
+        },
+        {
+            "key": "compassion_for_something_2h",
+            "path": "Assets/Signs/compassion_for_something_2h.anim"
+        },
+        {
+            "key": "compatible",
+            "path": "Assets/Signs/compatible.anim"
+        },
+        {
+            "key": "compel_2h",
+            "path": "Assets/Signs/compel_2h.anim"
+        },
+        {
+            "key": "compensate",
+            "path": "Assets/Signs/compensate.anim"
+        },
+        {
+            "key": "compensate_me",
+            "path": "Assets/Signs/compensate_me.anim"
+        },
+        {
+            "key": "compete",
+            "path": "Assets/Signs/compete.anim"
+        },
+        {
+            "key": "competent",
+            "path": "Assets/Signs/competent.anim"
+        },
+        {
+            "key": "compile",
+            "path": "Assets/Signs/compile.anim"
+        },
+        {
+            "key": "complacent",
+            "path": "Assets/Signs/complacent.anim"
+        },
+        {
+            "key": "complain",
+            "path": "Assets/Signs/complain.anim"
+        },
+        {
+            "key": "complaint",
+            "path": "Assets/Signs/complaint.anim"
+        },
+        {
+            "key": "complete",
+            "path": "Assets/Signs/complete.anim"
+        },
+        {
+            "key": "complete_finished",
+            "path": "Assets/Signs/complete_finished.anim"
+        },
+        {
+            "key": "complete_full",
+            "path": "Assets/Signs/complete_full.anim"
+        },
+        {
+            "key": "complex",
+            "path": "Assets/Signs/complex.anim"
+        },
+        {
+            "key": "complex_var",
+            "path": "Assets/Signs/complex_var.anim"
+        },
+        {
+            "key": "compliant",
+            "path": "Assets/Signs/compliant.anim"
+        },
+        {
+            "key": "complicated",
+            "path": "Assets/Signs/complicated.anim"
+        },
+        {
+            "key": "compliment",
+            "path": "Assets/Signs/compliment.anim"
+        },
+        {
+            "key": "complimentary",
+            "path": "Assets/Signs/complimentary.anim"
+        },
+        {
+            "key": "comply",
+            "path": "Assets/Signs/comply.anim"
+        },
+        {
+            "key": "component",
+            "path": "Assets/Signs/component.anim"
+        },
+        {
+            "key": "composed",
+            "path": "Assets/Signs/composed.anim"
+        },
+        {
+            "key": "composer",
+            "path": "Assets/Signs/composer.anim"
+        },
+        {
+            "key": "composition",
+            "path": "Assets/Signs/composition.anim"
+        },
+        {
+            "key": "compound_chemical",
+            "path": "Assets/Signs/compound_chemical.anim"
+        },
+        {
+            "key": "comprehend",
+            "path": "Assets/Signs/comprehend.anim"
+        },
+        {
+            "key": "compress",
+            "path": "Assets/Signs/compress.anim"
+        },
+        {
+            "key": "comprise",
+            "path": "Assets/Signs/comprise.anim"
+        },
+        {
+            "key": "compromise",
+            "path": "Assets/Signs/compromise.anim"
+        },
+        {
+            "key": "compulsory",
+            "path": "Assets/Signs/compulsory.anim"
+        },
+        {
+            "key": "computer_2h",
+            "path": "Assets/Signs/computer_2h.anim"
+        },
+        {
+            "key": "computer_file",
+            "path": "Assets/Signs/computer_file.anim"
+        },
+        {
+            "key": "computer_game",
+            "path": "Assets/Signs/computer_game.anim"
+        },
+        {
+            "key": "computer_hack",
+            "path": "Assets/Signs/computer_hack.anim"
+        },
+        {
+            "key": "computer_science_var",
+            "path": "Assets/Signs/computer_science_var.anim"
+        },
+        {
+            "key": "computer_virus",
+            "path": "Assets/Signs/computer_virus.anim"
+        },
+        {
+            "key": "con_artist",
+            "path": "Assets/Signs/con_artist.anim"
+        },
+        {
+            "key": "con_someone",
+            "path": "Assets/Signs/con_someone.anim"
+        },
+        {
+            "key": "conceal",
+            "path": "Assets/Signs/conceal.anim"
+        },
+        {
+            "key": "concede",
+            "path": "Assets/Signs/concede.anim"
+        },
+        {
+            "key": "conceited",
+            "path": "Assets/Signs/conceited.anim"
+        },
+        {
+            "key": "conceive_immaculate",
+            "path": "Assets/Signs/conceive_immaculate.anim"
+        },
+        {
+            "key": "concentrate",
+            "path": "Assets/Signs/concentrate.anim"
+        },
+        {
+            "key": "concept",
+            "path": "Assets/Signs/concept.anim"
+        },
+        {
+            "key": "concerned",
+            "path": "Assets/Signs/concerned.anim"
+        },
+        {
+            "key": "concieve_idea",
+            "path": "Assets/Signs/concieve_idea.anim"
+        },
+        {
+            "key": "concieve_pregnant",
+            "path": "Assets/Signs/concieve_pregnant.anim"
+        },
+        {
+            "key": "concise",
+            "path": "Assets/Signs/concise.anim"
+        },
+        {
+            "key": "conclude",
+            "path": "Assets/Signs/conclude.anim"
+        },
+        {
+            "key": "concoct",
+            "path": "Assets/Signs/concoct.anim"
+        },
+        {
+            "key": "concoct_food",
+            "path": "Assets/Signs/concoct_food.anim"
+        },
+        {
+            "key": "concrete",
+            "path": "Assets/Signs/concrete.anim"
+        },
+        {
+            "key": "concur",
+            "path": "Assets/Signs/concur.anim"
+        },
+        {
+            "key": "concussion",
+            "path": "Assets/Signs/concussion.anim"
+        },
+        {
+            "key": "concussion_ext",
+            "path": "Assets/Signs/concussion_ext.anim"
+        },
+        {
+            "key": "condemn_moral",
+            "path": "Assets/Signs/condemn_moral.anim"
+        },
+        {
+            "key": "condemn_sentence",
+            "path": "Assets/Signs/condemn_sentence.anim"
+        },
+        {
+            "key": "condense",
+            "path": "Assets/Signs/condense.anim"
+        },
+        {
+            "key": "condition",
+            "path": "Assets/Signs/condition.anim"
+        },
+        {
+            "key": "condolences",
+            "path": "Assets/Signs/condolences.anim"
+        },
+        {
+            "key": "condoms",
+            "path": "Assets/Signs/condoms.anim"
+        },
+        {
+            "key": "conduct_beahvior",
+            "path": "Assets/Signs/conduct_beahvior.anim"
+        },
+        {
+            "key": "conduct_carry_out",
+            "path": "Assets/Signs/conduct_carry_out.anim"
+        },
+        {
+            "key": "conduct_lead",
+            "path": "Assets/Signs/conduct_lead.anim"
+        },
+        {
+            "key": "conduct_music",
+            "path": "Assets/Signs/conduct_music.anim"
+        },
+        {
+            "key": "conductor",
+            "path": "Assets/Signs/conductor.anim"
+        },
+        {
+            "key": "cone_traffic",
+            "path": "Assets/Signs/cone_traffic.anim"
+        },
+        {
+            "key": "confess",
+            "path": "Assets/Signs/confess.anim"
+        },
+        {
+            "key": "confess_2h",
+            "path": "Assets/Signs/confess_2h.anim"
+        },
+        {
+            "key": "confidence",
+            "path": "Assets/Signs/confidence.anim"
+        },
+        {
+            "key": "confident",
+            "path": "Assets/Signs/confident.anim"
+        },
+        {
+            "key": "confidential",
+            "path": "Assets/Signs/confidential.anim"
+        },
+        {
+            "key": "confine",
+            "path": "Assets/Signs/confine.anim"
+        },
+        {
+            "key": "confine_prison",
+            "path": "Assets/Signs/confine_prison.anim"
+        },
+        {
+            "key": "confirm",
+            "path": "Assets/Signs/confirm.anim"
+        },
+        {
+            "key": "confirmation",
+            "path": "Assets/Signs/confirmation.anim"
+        },
+        {
+            "key": "confiscate",
+            "path": "Assets/Signs/confiscate.anim"
+        },
+        {
+            "key": "conflict",
+            "path": "Assets/Signs/conflict.anim"
+        },
+        {
+            "key": "conflict_of_interest",
+            "path": "Assets/Signs/conflict_of_interest.anim"
+        },
+        {
+            "key": "conform",
+            "path": "Assets/Signs/conform.anim"
+        },
+        {
+            "key": "confront",
+            "path": "Assets/Signs/confront.anim"
+        },
+        {
+            "key": "confront_me",
+            "path": "Assets/Signs/confront_me.anim"
+        },
+        {
+            "key": "confuse",
+            "path": "Assets/Signs/confuse.anim"
+        },
+        {
+            "key": "confused",
+            "path": "Assets/Signs/confused.anim"
+        },
+        {
+            "key": "congestion_nose",
+            "path": "Assets/Signs/congestion_nose.anim"
+        },
+        {
+            "key": "congestion_traffic",
+            "path": "Assets/Signs/congestion_traffic.anim"
+        },
+        {
+            "key": "congo",
+            "path": "Assets/Signs/congo.anim"
+        },
+        {
+            "key": "congratulate",
+            "path": "Assets/Signs/congratulate.anim"
+        },
+        {
+            "key": "congregate",
+            "path": "Assets/Signs/congregate.anim"
+        },
+        {
+            "key": "congregate_ext",
+            "path": "Assets/Signs/congregate_ext.anim"
+        },
+        {
+            "key": "congregation",
+            "path": "Assets/Signs/congregation.anim"
+        },
+        {
+            "key": "conjecture",
+            "path": "Assets/Signs/conjecture.anim"
+        },
+        {
+            "key": "connect",
+            "path": "Assets/Signs/connect.anim"
+        },
+        {
+            "key": "connecticut",
+            "path": "Assets/Signs/connecticut.anim"
+        },
+        {
+            "key": "conquer_military",
+            "path": "Assets/Signs/conquer_military.anim"
+        },
+        {
+            "key": "conquer_person",
+            "path": "Assets/Signs/conquer_person.anim"
+        },
+        {
+            "key": "conquer_weakness",
+            "path": "Assets/Signs/conquer_weakness.anim"
+        },
+        {
+            "key": "conscience",
+            "path": "Assets/Signs/conscience.anim"
+        },
+        {
+            "key": "conscientious",
+            "path": "Assets/Signs/conscientious.anim"
+        },
+        {
+            "key": "consciousness",
+            "path": "Assets/Signs/consciousness.anim"
+        },
+        {
+            "key": "consecutive",
+            "path": "Assets/Signs/consecutive.anim"
+        },
+        {
+            "key": "consensus",
+            "path": "Assets/Signs/consensus.anim"
+        },
+        {
+            "key": "consent",
+            "path": "Assets/Signs/consent.anim"
+        },
+        {
+            "key": "consequence",
+            "path": "Assets/Signs/consequence.anim"
+        },
+        {
+            "key": "conservative",
+            "path": "Assets/Signs/conservative.anim"
+        },
+        {
+            "key": "conserve",
+            "path": "Assets/Signs/conserve.anim"
+        },
+        {
+            "key": "consider",
+            "path": "Assets/Signs/consider.anim"
+        },
+        {
+            "key": "consider_2h",
+            "path": "Assets/Signs/consider_2h.anim"
+        },
+        {
+            "key": "consistent",
+            "path": "Assets/Signs/consistent.anim"
+        },
+        {
+            "key": "consort",
+            "path": "Assets/Signs/consort.anim"
+        },
+        {
+            "key": "conspiracy",
+            "path": "Assets/Signs/conspiracy.anim"
+        },
+        {
+            "key": "constant",
+            "path": "Assets/Signs/constant.anim"
+        },
+        {
+            "key": "constantly",
+            "path": "Assets/Signs/constantly.anim"
+        },
+        {
+            "key": "constitution",
+            "path": "Assets/Signs/constitution.anim"
+        },
+        {
+            "key": "construct",
+            "path": "Assets/Signs/construct.anim"
+        },
+        {
+            "key": "construe",
+            "path": "Assets/Signs/construe.anim"
+        },
+        {
+            "key": "consultants",
+            "path": "Assets/Signs/consultants.anim"
+        },
+        {
+            "key": "consume",
+            "path": "Assets/Signs/consume.anim"
+        },
+        {
+            "key": "consumer",
+            "path": "Assets/Signs/consumer.anim"
+        },
+        {
+            "key": "contact",
+            "path": "Assets/Signs/contact.anim"
+        },
+        {
+            "key": "contact_lens",
+            "path": "Assets/Signs/contact_lens.anim"
+        },
+        {
+            "key": "contact_me",
+            "path": "Assets/Signs/contact_me.anim"
+        },
+        {
+            "key": "contagious",
+            "path": "Assets/Signs/contagious.anim"
+        },
+        {
+            "key": "container",
+            "path": "Assets/Signs/container.anim"
+        },
+        {
+            "key": "container_big",
+            "path": "Assets/Signs/container_big.anim"
+        },
+        {
+            "key": "contaminate",
+            "path": "Assets/Signs/contaminate.anim"
+        },
+        {
+            "key": "contemplate",
+            "path": "Assets/Signs/contemplate.anim"
+        },
+        {
+            "key": "contempt",
+            "path": "Assets/Signs/contempt.anim"
+        },
+        {
+            "key": "contempt_for_me",
+            "path": "Assets/Signs/contempt_for_me.anim"
+        },
+        {
+            "key": "contemptious",
+            "path": "Assets/Signs/contemptious.anim"
+        },
+        {
+            "key": "content_media",
+            "path": "Assets/Signs/content_media.anim"
+        },
+        {
+            "key": "contest",
+            "path": "Assets/Signs/contest.anim"
+        },
+        {
+            "key": "context",
+            "path": "Assets/Signs/context.anim"
+        },
+        {
+            "key": "continual",
+            "path": "Assets/Signs/continual.anim"
+        },
+        {
+            "key": "continue",
+            "path": "Assets/Signs/continue.anim"
+        },
+        {
+            "key": "continue_akt",
+            "path": "Assets/Signs/continue_akt.anim"
+        },
+        {
+            "key": "continuous",
+            "path": "Assets/Signs/continuous.anim"
+        },
+        {
+            "key": "contraceptive",
+            "path": "Assets/Signs/contraceptive.anim"
+        },
+        {
+            "key": "contract",
+            "path": "Assets/Signs/contract.anim"
+        },
+        {
+            "key": "contract_disease",
+            "path": "Assets/Signs/contract_disease.anim"
+        },
+        {
+            "key": "contractor",
+            "path": "Assets/Signs/contractor.anim"
+        },
+        {
+            "key": "contradict",
+            "path": "Assets/Signs/contradict.anim"
+        },
+        {
+            "key": "contrary",
+            "path": "Assets/Signs/contrary.anim"
+        },
+        {
+            "key": "contrary_other",
+            "path": "Assets/Signs/contrary_other.anim"
+        },
+        {
+            "key": "contrary_var",
+            "path": "Assets/Signs/contrary_var.anim"
+        },
+        {
+            "key": "contrast",
+            "path": "Assets/Signs/contrast.anim"
+        },
+        {
+            "key": "contribute",
+            "path": "Assets/Signs/contribute.anim"
+        },
+        {
+            "key": "contrite",
+            "path": "Assets/Signs/contrite.anim"
+        },
+        {
+            "key": "contritition",
+            "path": "Assets/Signs/contritition.anim"
+        },
+        {
+            "key": "control",
+            "path": "Assets/Signs/control.anim"
+        },
+        {
+            "key": "controller_item",
+            "path": "Assets/Signs/controller_item.anim"
+        },
+        {
+            "key": "controversy",
+            "path": "Assets/Signs/controversy.anim"
+        },
+        {
+            "key": "convenient",
+            "path": "Assets/Signs/convenient.anim"
+        },
+        {
+            "key": "convention",
+            "path": "Assets/Signs/convention.anim"
+        },
+        {
+            "key": "converge",
+            "path": "Assets/Signs/converge.anim"
+        },
+        {
+            "key": "conversation",
+            "path": "Assets/Signs/conversation.anim"
+        },
+        {
+            "key": "conversion",
+            "path": "Assets/Signs/conversion.anim"
+        },
+        {
+            "key": "convert",
+            "path": "Assets/Signs/convert.anim"
+        },
+        {
+            "key": "convertible",
+            "path": "Assets/Signs/convertible.anim"
+        },
+        {
+            "key": "convey",
+            "path": "Assets/Signs/convey.anim"
+        },
+        {
+            "key": "convict",
+            "path": "Assets/Signs/convict.anim"
+        },
+        {
+            "key": "conviction",
+            "path": "Assets/Signs/conviction.anim"
+        },
+        {
+            "key": "conviction_opinion",
+            "path": "Assets/Signs/conviction_opinion.anim"
+        },
+        {
+            "key": "convince_me",
+            "path": "Assets/Signs/convince_me.anim"
+        },
+        {
+            "key": "convince_you_var",
+            "path": "Assets/Signs/convince_you_var.anim"
+        },
+        {
+            "key": "convocation",
+            "path": "Assets/Signs/convocation.anim"
+        },
+        {
+            "key": "convoy",
+            "path": "Assets/Signs/convoy.anim"
+        },
+        {
+            "key": "convulse",
+            "path": "Assets/Signs/convulse.anim"
+        },
+        {
+            "key": "cook",
+            "path": "Assets/Signs/cook.anim"
+        },
+        {
+            "key": "cook_person",
+            "path": "Assets/Signs/cook_person.anim"
+        },
+        {
+            "key": "cookie",
+            "path": "Assets/Signs/cookie.anim"
+        },
+        {
+            "key": "cool_awesome",
+            "path": "Assets/Signs/cool_awesome.anim"
+        },
+        {
+            "key": "cool_off",
+            "path": "Assets/Signs/cool_off.anim"
+        },
+        {
+            "key": "cool_temperature",
+            "path": "Assets/Signs/cool_temperature.anim"
+        },
+        {
+            "key": "cooperate",
+            "path": "Assets/Signs/cooperate.anim"
+        },
+        {
+            "key": "cop",
+            "path": "Assets/Signs/cop.anim"
+        },
+        {
+            "key": "cope",
+            "path": "Assets/Signs/cope.anim"
+        },
+        {
+            "key": "copious",
+            "path": "Assets/Signs/copious.anim"
+        },
+        {
+            "key": "copy",
+            "path": "Assets/Signs/copy.anim"
+        },
+        {
+            "key": "copy_and_paste",
+            "path": "Assets/Signs/copy_and_paste.anim"
+        },
+        {
+            "key": "copy_multiple",
+            "path": "Assets/Signs/copy_multiple.anim"
+        },
+        {
+            "key": "copy_someone",
+            "path": "Assets/Signs/copy_someone.anim"
+        },
+        {
+            "key": "copyediting",
+            "path": "Assets/Signs/copyediting.anim"
+        },
+        {
+            "key": "copyright",
+            "path": "Assets/Signs/copyright.anim"
+        },
+        {
+            "key": "corn",
+            "path": "Assets/Signs/corn.anim"
+        },
+        {
+            "key": "corner",
+            "path": "Assets/Signs/corner.anim"
+        },
+        {
+            "key": "corpse",
+            "path": "Assets/Signs/corpse.anim"
+        },
+        {
+            "key": "correct_me",
+            "path": "Assets/Signs/correct_me.anim"
+        },
+        {
+            "key": "correct_someone",
+            "path": "Assets/Signs/correct_someone.anim"
+        },
+        {
+            "key": "correction_fluid",
+            "path": "Assets/Signs/correction_fluid.anim"
+        },
+        {
+            "key": "correlate",
+            "path": "Assets/Signs/correlate.anim"
+        },
+        {
+            "key": "correspond",
+            "path": "Assets/Signs/correspond.anim"
+        },
+        {
+            "key": "corridor",
+            "path": "Assets/Signs/corridor.anim"
+        },
+        {
+            "key": "corroborate",
+            "path": "Assets/Signs/corroborate.anim"
+        },
+        {
+            "key": "corruption",
+            "path": "Assets/Signs/corruption.anim"
+        },
+        {
+            "key": "cosemetics",
+            "path": "Assets/Signs/cosemetics.anim"
+        },
+        {
+            "key": "cost",
+            "path": "Assets/Signs/cost.anim"
+        },
+        {
+            "key": "cote_divoire",
+            "path": "Assets/Signs/cote_divoire.anim"
+        },
+        {
+            "key": "coterie",
+            "path": "Assets/Signs/coterie.anim"
+        },
+        {
+            "key": "cottage",
+            "path": "Assets/Signs/cottage.anim"
+        },
+        {
+            "key": "couch",
+            "path": "Assets/Signs/couch.anim"
+        },
+        {
+            "key": "cougar",
+            "path": "Assets/Signs/cougar.anim"
+        },
+        {
+            "key": "cough_syrup",
+            "path": "Assets/Signs/cough_syrup.anim"
+        },
+        {
+            "key": "cough_syrup_var",
+            "path": "Assets/Signs/cough_syrup_var.anim"
+        },
+        {
+            "key": "cough_up",
+            "path": "Assets/Signs/cough_up.anim"
+        },
+        {
+            "key": "cough_up_money",
+            "path": "Assets/Signs/cough_up_money.anim"
+        },
+        {
+            "key": "could",
+            "path": "Assets/Signs/could.anim"
+        },
+        {
+            "key": "council",
+            "path": "Assets/Signs/council.anim"
+        },
+        {
+            "key": "counseling",
+            "path": "Assets/Signs/counseling.anim"
+        },
+        {
+            "key": "counselor",
+            "path": "Assets/Signs/counselor.anim"
+        },
+        {
+            "key": "count",
+            "path": "Assets/Signs/count.anim"
+        },
+        {
+            "key": "count_on",
+            "path": "Assets/Signs/count_on.anim"
+        },
+        {
+            "key": "counter_disagree",
+            "path": "Assets/Signs/counter_disagree.anim"
+        },
+        {
+            "key": "counterclockwise",
+            "path": "Assets/Signs/counterclockwise.anim"
+        },
+        {
+            "key": "counterfeit",
+            "path": "Assets/Signs/counterfeit.anim"
+        },
+        {
+            "key": "counterpart",
+            "path": "Assets/Signs/counterpart.anim"
+        },
+        {
+            "key": "countless",
+            "path": "Assets/Signs/countless.anim"
+        },
+        {
+            "key": "country",
+            "path": "Assets/Signs/country.anim"
+        },
+        {
+            "key": "country_road",
+            "path": "Assets/Signs/country_road.anim"
+        },
+        {
+            "key": "country_rural",
+            "path": "Assets/Signs/country_rural.anim"
+        },
+        {
+            "key": "country_side",
+            "path": "Assets/Signs/country_side.anim"
+        },
+        {
+            "key": "county",
+            "path": "Assets/Signs/county.anim"
+        },
+        {
+            "key": "coup_detat",
+            "path": "Assets/Signs/coup_detat.anim"
+        },
+        {
+            "key": "coup_oppurtunity",
+            "path": "Assets/Signs/coup_oppurtunity.anim"
+        },
+        {
+            "key": "couple",
+            "path": "Assets/Signs/couple.anim"
+        },
+        {
+            "key": "courageous",
+            "path": "Assets/Signs/courageous.anim"
+        },
+        {
+            "key": "d",
+            "path": "Assets/Signs/d.anim"
+        },
+        {
+            "key": "delve",
+            "path": "Assets/Signs/delve.anim"
+        },
+        {
+            "key": "e",
+            "path": "Assets/Signs/e.anim"
+        },
+        {
+            "key": "eclipse",
+            "path": "Assets/Signs/eclipse.anim"
+        },
+        {
+            "key": "equal",
+            "path": "Assets/Signs/equal.anim"
+        },
+        {
+            "key": "equal_status",
+            "path": "Assets/Signs/equal_status.anim"
+        },
+        {
+            "key": "everyone",
+            "path": "Assets/Signs/everyone.anim"
+        },
+        {
+            "key": "f",
+            "path": "Assets/Signs/f.anim"
+        },
+        {
+            "key": "future",
+            "path": "Assets/Signs/future.anim"
+        },
+        {
+            "key": "future_near",
+            "path": "Assets/Signs/future_near.anim"
+        },
+        {
+            "key": "future_var",
+            "path": "Assets/Signs/future_var.anim"
+        },
+        {
+            "key": "g",
+            "path": "Assets/Signs/g.anim"
+        },
+        {
+            "key": "galtis_riggaltis_rigaction001",
+            "path": "Assets/Signs/galtis_riggaltis_rigaction001.anim"
+        },
+        {
+            "key": "h",
+            "path": "Assets/Signs/h.anim"
+        },
+        {
+            "key": "hello",
+            "path": "Assets/Signs/hello.anim"
+        },
+        {
+            "key": "hello_var",
+            "path": "Assets/Signs/hello_var.anim"
+        },
+        {
+            "key": "hello_var_ext",
+            "path": "Assets/Signs/hello_var_ext.anim"
+        },
+        {
+            "key": "i",
+            "path": "Assets/Signs/i.anim"
+        },
+        {
+            "key": "j",
+            "path": "Assets/Signs/j.anim"
+        },
+        {
+            "key": "k",
+            "path": "Assets/Signs/k.anim"
+        },
+        {
+            "key": "l",
+            "path": "Assets/Signs/l.anim"
+        },
+        {
+            "key": "m",
+            "path": "Assets/Signs/m.anim"
+        },
+        {
+            "key": "my",
+            "path": "Assets/Signs/my.anim"
+        },
+        {
+            "key": "my_name_is",
+            "path": "Assets/Signs/my_name_is.anim"
+        },
+        {
+            "key": "n",
+            "path": "Assets/Signs/n.anim"
+        },
+        {
+            "key": "new_year",
+            "path": "Assets/Signs/new_year.anim"
+        },
+        {
+            "key": "new_year_day",
+            "path": "Assets/Signs/new_year_day.anim"
+        },
+        {
+            "key": "new_year_resolution",
+            "path": "Assets/Signs/new_year_resolution.anim"
+        },
+        {
+            "key": "o",
+            "path": "Assets/Signs/o.anim"
+        },
+        {
+            "key": "or",
+            "path": "Assets/Signs/or.anim"
+        },
+        {
+            "key": "p",
+            "path": "Assets/Signs/p.anim"
+        },
+        {
+            "key": "please",
+            "path": "Assets/Signs/please.anim"
+        },
+        {
+            "key": "q",
+            "path": "Assets/Signs/q.anim"
+        },
+        {
+            "key": "r",
+            "path": "Assets/Signs/r.anim"
+        },
+        {
+            "key": "s",
+            "path": "Assets/Signs/s.anim"
+        },
+        {
+            "key": "t",
+            "path": "Assets/Signs/t.anim"
+        },
+        {
+            "key": "take",
+            "path": "Assets/Signs/take.anim"
+        },
+        {
+            "key": "this",
+            "path": "Assets/Signs/this.anim"
+        },
+        {
+            "key": "three_dimension",
+            "path": "Assets/Signs/three_dimension.anim"
+        },
+        {
+            "key": "turn_off",
+            "path": "Assets/Signs/turn_off.anim"
+        },
+        {
+            "key": "u",
+            "path": "Assets/Signs/u.anim"
+        },
+        {
+            "key": "v",
+            "path": "Assets/Signs/v.anim"
+        },
+        {
+            "key": "valentines_day",
+            "path": "Assets/Signs/valentines_day.anim"
+        },
+        {
+            "key": "w",
+            "path": "Assets/Signs/w.anim"
+        },
+        {
+            "key": "where_var",
+            "path": "Assets/Signs/where_var.anim"
+        },
+        {
+            "key": "which",
+            "path": "Assets/Signs/which.anim"
+        },
+        {
+            "key": "which_var",
+            "path": "Assets/Signs/which_var.anim"
+        },
+        {
+            "key": "x",
+            "path": "Assets/Signs/x.anim"
+        },
+        {
+            "key": "y",
+            "path": "Assets/Signs/y.anim"
+        },
+        {
+            "key": "you",
+            "path": "Assets/Signs/you.anim"
+        },
+        {
+            "key": "z",
+            "path": "Assets/Signs/z.anim"
+        }
+    ]
+}
