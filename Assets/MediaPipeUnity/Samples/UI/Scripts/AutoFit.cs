@@ -28,7 +28,7 @@ namespace Mediapipe.Unity
       {
         return;
       }
-
+      rectTransform.anchoredPosition = new Vector2(rectTransform.anchoredPosition.x, 0);
       var parentRect = gameObject.transform.parent.gameObject.GetComponent<RectTransform>().rect;
       var (width, height) = GetBoundingBoxSize(rectTransform);
 
@@ -46,6 +46,8 @@ namespace Mediapipe.Unity
 
       rectTransform.offsetMin *= ratio;
       rectTransform.offsetMax *= ratio;
+
+      rectTransform.anchoredPosition = new Vector2(rectTransform.anchoredPosition.x, 0);
     }
 
     private (float, float) GetBoundingBoxSize(RectTransform rectTransform)

@@ -341,5 +341,10 @@ namespace Mediapipe.Unity.Sample.Holistic
 
       return sidePacket;
     }
+    protected virtual void OnDestroy()
+    {
+      Debug.Log("HolisticTrackingSolution.OnDestroy() called. Stopping graph runner.");
+      Stop();
+    }
   }
 }

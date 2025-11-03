@@ -116,6 +116,14 @@ namespace Mediapipe.Unity
       UnityEngine.Object.Destroy(_videoPlayer);
       _videoPlayer = null;
     }
+    public string GetSignLabel()
+    {
+      return "";
+      // if (_currentSourcePath == null) return null;
+      // // The label is the name of the parent directory
+      // return new DirectoryInfo(Path.GetDirectoryName(_currentSourcePath)).Name;
+    }
+
 
     public override Texture GetCurrentTexture() => _videoPlayer != null ? _videoPlayer.texture : null;
   }

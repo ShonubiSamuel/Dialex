@@ -99,7 +99,6 @@ namespace Mediapipe.Unity
         _visualizeZ,
         _circleVertices
       );
-      
       OnHolisticLandmarks?.Invoke(
         _currentFaceLandmarkList,
         _currentPoseLandmarkList,

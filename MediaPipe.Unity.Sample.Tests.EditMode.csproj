@@ -43,13 +43,13 @@
   <ItemGroup>
     <None Include="Assets/MediaPipeUnity/Tests/EditMode/MediaPipe.Unity.Sample.Tests.EditMode.asmdef" />
     <Reference Include="UnityEngine">
-      <HintPath>/Applications/Unity/Hub/Editor/6000.2.1f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+      <HintPath>/Applications/Unity/Hub/Editor/6000.0.58f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>/Applications/Unity/Hub/Editor/6000.2.1f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>/Applications/Unity/Hub/Editor/6000.0.58f2/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>/Applications/Unity/Hub/Editor/6000.2.1f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll</HintPath>
+      <HintPath>/Applications/Unity/Hub/Editor/6000.0.58f2/Unity.app/Contents/Managed/UnityEngine/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

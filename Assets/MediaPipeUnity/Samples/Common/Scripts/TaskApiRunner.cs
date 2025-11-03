@@ -82,7 +82,7 @@ namespace Mediapipe.Unity.Sample
         Debug.Log("Initializing the Bootstrap GameObject");
         bootstrapObj = Instantiate(_bootstrapPrefab);
         bootstrapObj.name = _BootstrapName;
-        DontDestroyOnLoad(bootstrapObj);
+        //DontDestroyOnLoad(bootstrapObj);
       }
 
       return bootstrapObj.GetComponent<Bootstrap>();
