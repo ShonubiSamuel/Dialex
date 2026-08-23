@@ -1,9 +1,47 @@
-/Library
-/Logs
-/Logs
-Logs/AssetImportWorker0.log
-/Temp
-/Build
-/obj
-/.utmp
-SingularityGroup.HotReload.Editor.csproj
+# ---- Unity generated / regenerable ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+sysinfo.txt
+crashlytics-build.properties
+
+# ---- Crash dumps ----
+mono_crash.*
+
+# ---- IDE / generated project files ----
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# ---- Addressables ----
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# ---- Secrets ----
+.env
+.env.*
+!.env.example
+*.mobileconfig
+
+# ---- OS ----
+.DS_Store
